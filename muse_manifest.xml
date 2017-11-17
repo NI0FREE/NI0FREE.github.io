@@ -1,0 +1,26 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1510905091555">
+  <folder name="css">
+    <file name="site_global.css" crc="367024969"/>
+    <file name="index.css" crc="215435090" ref="index"/>
+    <file name="___.css" crc="4168008129" ref="обж"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:обж"/>
+    <file name="museutils.js" crc="3803043152" ref="index:обж"/>
+    <file name="whatinput.js" crc="86476730" ref="index:обж"/>
+    <file name="museconfig.js" crc="380897831" ref="index:обж"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:обж"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:обж"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:обж"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:обж"/>
+    <file name="require.js" crc="4157109226" ref="index:обж"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленное изображение 3200x2135.jpg" crc="3991230790" seo="true" ref="index:обж">
+      <caption webpage="index" alt=""/>
+      <caption webpage="обж" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4161388289" seo="true" mt="1510902829168" redirect="true"/>
+  <file name="обж.html" crc="361839541" seo="true" mt="1510902531653" redirect="true"/>
+</manifest>
