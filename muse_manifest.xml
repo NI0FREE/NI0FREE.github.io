@@ -1,26 +1,48 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1510905091555">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1510911189865">
   <folder name="css">
     <file name="site_global.css" crc="367024969"/>
-    <file name="index.css" crc="215435090" ref="index"/>
-    <file name="___.css" crc="4168008129" ref="обж"/>
+    <file name="index.css" crc="3961807740" ref="index"/>
+    <file name="_-_______.css" crc="4128984904" ref="о-главном"/>
+    <file name="_-_____.css" crc="169803041" ref="о-сайте"/>
+    <file name="_______.css" crc="3782447879" ref="разделы"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:обж"/>
-    <file name="museutils.js" crc="3803043152" ref="index:обж"/>
-    <file name="whatinput.js" crc="86476730" ref="index:обж"/>
-    <file name="museconfig.js" crc="380897831" ref="index:обж"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:обж"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:обж"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:обж"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:обж"/>
-    <file name="require.js" crc="4157109226" ref="index:обж"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="museutils.js" crc="3803043152" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="whatinput.js" crc="86476730" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="museconfig.js" crc="380897831" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="require.js" crc="4157109226" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="вставленное изображение 3200x2135.jpg" crc="3991230790" seo="true" ref="index:обж">
+    <file name="вставленное изображение 3200x2135.jpg" crc="3991230790" seo="true" ref="index:о-главном:разделы:о-сайте">
       <caption webpage="index" alt=""/>
+      <caption webpage="разделы" alt=""/>
+      <caption webpage="о-главном" alt=""/>
+      <caption webpage="о-сайте" alt=""/>
       <caption webpage="обж" alt=""/>
     </file>
+    <file name="cactus-crop-u4301.jpg" crc="3815708187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-crop-u4297.jpg" crc="4144285265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u4299.jpg" crc="3970224328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="4161388289" seo="true" mt="1510902829168" redirect="true"/>
-  <file name="обж.html" crc="361839541" seo="true" mt="1510902531653" redirect="true"/>
+  <file name="index.html" crc="444198536" seo="true" mt="1510911087676" redirect="true"/>
+  <file name="о-главном.html" crc="6136449" seo="true" mt="1510910699773" redirect="true"/>
+  <file name="разделы.html" crc="275115003" seo="true" mt="1510910699771" redirect="true"/>
+  <file name="о-сайте.html" crc="4145043679" seo="true" mt="1510910699766" redirect="true"/>
 </manifest>
