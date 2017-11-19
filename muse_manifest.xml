@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onedayjobonly.com" resolutions="1x" timestamp="1511089983481">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onedayjobonly.com" resolutions="1x" timestamp="1511090140653">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3913748331" ref="без-имени-2:index:home-копия"/>
     <file name="___-_____-2.css" crc="505266206" ref="без-имени-2"/>
     <file name="index.css" crc="536513210" ref="index"/>
-    <file name="home-_____.css" crc="4204045127" ref="home-копия"/>
+    <file name="home-_____.css" crc="504640145" ref="home-копия"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2:home-копия"/>
@@ -25,5 +25,5 @@
   </folder>
   <file name="index.html" crc="4028410831" seo="true" mt="1454795217840" redirect="true"/>
   <file name="без-имени-2.html" crc="275194773" seo="true" mt="1511089925991" redirect="true"/>
-  <file name="home-копия.html" crc="450305691" seo="true" mt="1511089954942" redirect="true"/>
+  <file name="home-копия.html" crc="4141950212" seo="true" mt="1511090132227" redirect="true"/>
 </manifest>
