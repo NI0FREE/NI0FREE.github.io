@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1510913500398">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1511065786405">
   <folder name="css">
     <file name="site_global.css" crc="367024969"/>
-    <file name="index.css" crc="3802501812" ref="index"/>
-    <file name="_-_______.css" crc="4128984904" ref="о-главном"/>
-    <file name="_-_____.css" crc="169803041" ref="о-сайте"/>
-    <file name="_______.css" crc="3782447879" ref="разделы"/>
+    <file name="_-_____.css" crc="122645067" ref="о-сайте"/>
+    <file name="index.css" crc="385192685" ref="index"/>
+    <file name="_______.css" crc="3961652333" ref="разделы"/>
+    <file name="_-_______.css" crc="4215986210" ref="о-главном"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:о-главном:разделы:о-сайте"/>
@@ -12,36 +12,51 @@
     <file name="whatinput.js" crc="86476730" ref="index:о-главном:разделы:о-сайте"/>
     <file name="museconfig.js" crc="380897831" ref="index:о-главном:разделы:о-сайте"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:о-главном:разделы:о-сайте"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:о-главном:разделы:о-сайте"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:о-главном:разделы:о-сайте"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:о-главном:разделы:о-сайте"/>
     <file name="require.js" crc="4157109226" ref="index:о-главном:разделы:о-сайте"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="о-главном:разделы:о-сайте"/>
   </folder>
   <folder name="images">
-    <file name="вставленное изображение 3200x2135.jpg" crc="3991230790" seo="true" ref="index:о-главном:разделы:о-сайте">
+    <file name="вставленное изображение 516x480.jpg" crc="3956044642" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 516x4802.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 516x4803.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-1.jpg" crc="278029561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 516x4804.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 3200x2135.jpg" crc="3991230790" seo="true" ref="о-главном:разделы:о-сайте">
       <caption webpage="о-главном" alt=""/>
-      <caption webpage="о-сайте" alt=""/>
       <caption webpage="разделы" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="без имени3.jpg" crc="83794294" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="без имени2.jpg" crc="326161528" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="без имени.jpg" crc="3930654629" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="о-сайте" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4159832656" seo="true" mt="1510913454068" redirect="true"/>
-  <file name="о-главном.html" crc="6136449" seo="true" mt="1510910699773" redirect="true"/>
-  <file name="разделы.html" crc="275115003" seo="true" mt="1510910699771" redirect="true"/>
-  <file name="о-сайте.html" crc="4145043679" seo="true" mt="1510910699766" redirect="true"/>
+  <file name="index.html" crc="407977174" seo="true" mt="1511065751863" redirect="true"/>
+  <file name="о-главном.html" crc="4202470731" seo="true" mt="1511065751875" redirect="true"/>
+  <file name="разделы.html" crc="4198388994" seo="true" mt="1511065751870" redirect="true"/>
+  <file name="о-сайте.html" crc="4198223774" seo="true" mt="1511065751879" redirect="true"/>
 </manifest>
