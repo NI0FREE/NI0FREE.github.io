@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1511066777204">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1511068860676">
   <folder name="css">
     <file name="site_global.css" crc="367024969"/>
-    <file name="index.css" crc="152126295" ref="index"/>
-    <file name="___-_____.css" crc="343817209" ref="обж-копия"/>
+    <file name="index.css" crc="3990863346" ref="index"/>
     <file name="___-_____-_____.css" crc="3927383236" ref="обж-копия-копия"/>
+    <file name="___-_____.css" crc="343817209" ref="обж-копия"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:обж-копия:обж-копия-копия"/>
@@ -90,7 +90,7 @@
       <caption webpage="обж-копия-копия" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="336183052" seo="true" mt="1511066689911" redirect="true"/>
+  <file name="index.html" crc="4225081137" seo="true" mt="1511068830743" redirect="true"/>
   <file name="обж-копия.html" crc="520541077" seo="true" mt="1511066698915" redirect="true"/>
   <file name="обж-копия-копия.html" crc="388035409" seo="true" mt="1511066690129" redirect="true"/>
 </manifest>
