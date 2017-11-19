@@ -1,96 +1,29 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1511088784682">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="onedayjobonly.com" resolutions="1x" timestamp="1511089983481">
   <folder name="css">
-    <file name="site_global.css" crc="367024969"/>
-    <file name="index.css" crc="152126295" ref="index"/>
-    <file name="___-_____.css" crc="343817209" ref="обж-копия"/>
-    <file name="___-_____-_____.css" crc="3927383236" ref="обж-копия-копия"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3913748331" ref="без-имени-2:index:home-копия"/>
+    <file name="___-_____-2.css" crc="505266206" ref="без-имени-2"/>
+    <file name="index.css" crc="536513210" ref="index"/>
+    <file name="home-_____.css" crc="4204045127" ref="home-копия"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="museutils.js" crc="3803043152" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="whatinput.js" crc="86476730" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="museconfig.js" crc="380897831" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:обж-копия:обж-копия-копия"/>
-    <file name="require.js" crc="4157109226" ref="index:обж-копия:обж-копия-копия"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2:home-копия"/>
+    <file name="museutils.js" crc="3803043152" ref="index:без-имени-2:home-копия"/>
+    <file name="whatinput.js" crc="86476730" ref="index:без-имени-2:home-копия"/>
+    <file name="museconfig.js" crc="380897831" ref="index:без-имени-2:home-копия"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:home-копия"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:без-имени-2:home-копия"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:без-имени-2:home-копия"/>
+    <file name="require.js" crc="4157109226" ref="index:без-имени-2:home-копия"/>
   </folder>
   <folder name="images">
-    <file name="вставленное изображение 516x480.jpg" crc="3956044642" seo="true" ref="index:обж-копия:обж-копия-копия">
+    <file name="heart.png" crc="117585526" seo="true" ref="index:без-имени-2:home-копия">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-    </file>
-    <file name="вставленное изображение 516x4802.jpg" crc="3956044642" seo="true" ref="index:обж-копия:обж-копия-копия">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-    </file>
-    <file name="вставленное изображение 516x4803.jpg" crc="3956044642" seo="true" ref="index:обж-копия:обж-копия-копия">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-    </file>
-    <file name="безымянный-1.jpg" crc="278029561" seo="true" ref="index:обж-копия:обж-копия-копия">
-      <caption webpage="index" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-    </file>
-    <file name="вставленное изображение 516x4804.jpg" crc="3956044642" seo="true" ref="index:обж-копия:обж-копия-копия">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
-      <caption webpage="обж-копия" alt=""/>
+      <caption webpage="без-имени-2" alt=""/>
+      <caption webpage="home-копия" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="336183052" seo="true" mt="1511066689911" redirect="true"/>
-  <file name="обж-копия.html" crc="520541077" seo="true" mt="1511066698915" redirect="true"/>
-  <file name="обж-копия-копия.html" crc="388035409" seo="true" mt="1511066690129" redirect="true"/>
+  <file name="index.html" crc="4028410831" seo="true" mt="1454795217840" redirect="true"/>
+  <file name="без-имени-2.html" crc="275194773" seo="true" mt="1511089925991" redirect="true"/>
+  <file name="home-копия.html" crc="450305691" seo="true" mt="1511089954942" redirect="true"/>
 </manifest>
