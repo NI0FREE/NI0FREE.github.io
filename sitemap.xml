@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://musefree.com/index.html</loc>
-    <lastmod>2017-11-19</lastmod>
+    <loc>http://obz.com/index.html</loc>
+    <lastmod>2017-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://musefree.com/images/light_green_background_photoshopia_ru_67.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://musefree.com/home-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.html</loc>
-    <lastmod>2017-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://musefree.com/images/light_green_background_photoshopia_ru_67.jpg</image:loc>
+      <image:loc>http://obz.com/images/%D1%84%D0%BE%D0%BD.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://musefree.com/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://musefree.com/home-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-2.html</loc>
-    <lastmod>2017-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://musefree.com/images/light_green_background_photoshopia_ru_67.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://musefree.com/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-1.jpg</image:loc>
+      <image:loc>http://obz.com/images/%D0%BB%D0%BE%D0%B3%D0%BE.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
