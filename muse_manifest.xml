@@ -1,83 +1,124 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ОЮЖ.io" resolutions="1x" timestamp="1512029596899">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1512034748596">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3902351761" ref="index"/>
-    <file name="______.css" crc="191351101" ref="прочее"/>
-    <file name="________.css" crc="270580370" ref="учебники"/>
-    <file name="_____.css" crc="150265889" ref="видео"/>
-    <file name="___________.css" crc="3984233319" ref="презентации"/>
+    <file name="___________.css" crc="316185880" ref="презентации"/>
+    <file name="_____.css" crc="3893682570" ref="видео"/>
+    <file name="________.css" crc="231093417" ref="учебники"/>
+    <file name="______.css" crc="4288190586" ref="прочее"/>
+    <file name="index.css" crc="401909570" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="museutils.js" crc="3803043152" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="whatinput.js" crc="86476730" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="museconfig.js" crc="380897831" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="require.js" crc="4157109226" ref="index:учебники:презентации:видео:прочее"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:учебники:презентации:видео:прочее"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="museutils.js" crc="3803043152" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="whatinput.js" crc="86476730" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="museconfig.js" crc="380897831" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="require.js" crc="4157109226" ref="index:учебники:видео:презентации:прочее"/>
   </folder>
   <folder name="images">
-    <file name="u641-4.png" crc="463645909" ref="index"/>
-    <file name="u1244-4-a.png" crc="39076291" ref="index"/>
-    <file name="u2992-4.png" crc="4053524906" ref="index"/>
-    <file name="u3167-4.png" crc="134623492" ref="index"/>
-    <file name="u3411-4.png" crc="419948911" ref="index"/>
-    <file name="u3727-4.png" crc="107108426" ref="index"/>
-    <file name="u1431-4-a.png" crc="39076291" ref="index"/>
-    <file name="u2969-4.png" crc="4053524906" ref="index"/>
-    <file name="u3143-4.png" crc="134623492" ref="index"/>
-    <file name="u3391-4.png" crc="419948911" ref="index"/>
-    <file name="u3707-4.png" crc="107108426" ref="index"/>
-    <file name="u2923-4.png" crc="463645909" ref="учебники"/>
-    <file name="u2921-4.png" crc="39076291" ref="учебники"/>
-    <file name="u3032-4-a.png" crc="4053524906" ref="учебники"/>
-    <file name="u3207-4.png" crc="134623492" ref="учебники"/>
-    <file name="u3454-4.png" crc="419948911" ref="учебники"/>
-    <file name="u3768-4.png" crc="107108426" ref="учебники"/>
-    <file name="u2910-4.png" crc="39076291" ref="учебники"/>
-    <file name="u3011-4-a.png" crc="4053524906" ref="учебники"/>
-    <file name="u3186-4.png" crc="134623492" ref="учебники"/>
-    <file name="u3431-4.png" crc="419948911" ref="учебники"/>
-    <file name="u3748-4.png" crc="107108426" ref="учебники"/>
-    <file name="u3085-4.png" crc="463645909" ref="презентации"/>
-    <file name="u3075-4.png" crc="39076291" ref="презентации"/>
-    <file name="u3081-4.png" crc="4053524906" ref="презентации"/>
-    <file name="u3251-4-a.png" crc="134623492" ref="презентации"/>
-    <file name="u3497-4.png" crc="419948911" ref="презентации"/>
-    <file name="u3810-4.png" crc="107108426" ref="презентации"/>
-    <file name="u3067-4.png" crc="39076291" ref="презентации"/>
-    <file name="u3059-4.png" crc="4053524906" ref="презентации"/>
-    <file name="u3230-4-a.png" crc="134623492" ref="презентации"/>
-    <file name="u3475-4.png" crc="419948911" ref="презентации"/>
-    <file name="u3789-4.png" crc="107108426" ref="презентации"/>
-    <file name="u3383-4.png" crc="463645909" ref="видео"/>
-    <file name="u3372-4.png" crc="39076291" ref="видео"/>
-    <file name="u3380-4.png" crc="4053524906" ref="видео"/>
-    <file name="u3366-4.png" crc="134623492" ref="видео"/>
-    <file name="u3537-4-a.png" crc="419948911" ref="видео"/>
-    <file name="u3855-4.png" crc="107108426" ref="видео"/>
-    <file name="u3342-4.png" crc="39076291" ref="видео"/>
-    <file name="u3358-4.png" crc="4053524906" ref="видео"/>
-    <file name="u3350-4.png" crc="134623492" ref="видео"/>
-    <file name="u3516-4-a.png" crc="419948911" ref="видео"/>
-    <file name="u3831-4.png" crc="107108426" ref="видео"/>
-    <file name="u3592-4.png" crc="463645909" ref="прочее"/>
-    <file name="u3606-4.png" crc="39076291" ref="прочее"/>
-    <file name="u3620-4.png" crc="4053524906" ref="прочее"/>
-    <file name="u3597-4.png" crc="134623492" ref="прочее"/>
-    <file name="u3613-4.png" crc="419948911" ref="прочее"/>
-    <file name="u3896-4-a.png" crc="107108426" ref="прочее"/>
-    <file name="u3571-4.png" crc="39076291" ref="прочее"/>
-    <file name="u3586-4.png" crc="4053524906" ref="прочее"/>
-    <file name="u3565-4.png" crc="134623492" ref="прочее"/>
-    <file name="u3578-4.png" crc="419948911" ref="прочее"/>
-    <file name="u3875-4-a.png" crc="107108426" ref="прочее"/>
+    <file name="u920-4.png" crc="89963286" ref="index"/>
+    <file name="u964-4-a.png" crc="108028940" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:учебники:видео:презентации:прочее"/>
+    <file name="u2546.png" crc="4184545572" ref="index"/>
+    <file name="u2546-a.png" crc="4184545572" ref="index"/>
+    <file name="u2722.png" crc="508203005" ref="index"/>
+    <file name="u2722-a.png" crc="508203005" ref="index"/>
+    <file name="u2966.png" crc="359848273" ref="index"/>
+    <file name="u2966-a.png" crc="359848273" ref="index"/>
+    <file name="u3284.png" crc="4070645355" ref="index"/>
+    <file name="u3284-a.png" crc="4070645355" ref="index"/>
+    <file name="u1013-4-a.png" crc="494211774" ref="index"/>
+    <file name="u2566.png" crc="4184545572" ref="index"/>
+    <file name="u2566-a.png" crc="3911288022" ref="index"/>
+    <file name="u2741.png" crc="508203005" ref="index"/>
+    <file name="u2741-a.png" crc="4130960935" ref="index"/>
+    <file name="u2986.png" crc="359848273" ref="index"/>
+    <file name="u2986-a.png" crc="378286417" ref="index"/>
+    <file name="u3306.png" crc="4070645355" ref="index"/>
+    <file name="u3306-a.png" crc="4232005869" ref="index"/>
+    <file name="u2535-4.png" crc="89963286" ref="учебники"/>
+    <file name="u2528.png" crc="108028940" ref="учебники"/>
+    <file name="u2528-a.png" crc="108028940" ref="учебники"/>
+    <file name="u2607-4-a.png" crc="4184545572" ref="учебники"/>
+    <file name="u2782.png" crc="508203005" ref="учебники"/>
+    <file name="u2782-a.png" crc="508203005" ref="учебники"/>
+    <file name="u3032.png" crc="359848273" ref="учебники"/>
+    <file name="u3032-a.png" crc="359848273" ref="учебники"/>
+    <file name="u3346.png" crc="4070645355" ref="учебники"/>
+    <file name="u3346-a.png" crc="4070645355" ref="учебники"/>
+    <file name="u2519.png" crc="108028940" ref="учебники"/>
+    <file name="u2519-a.png" crc="494211774" ref="учебники"/>
+    <file name="u2585-4-a.png" crc="346324095" ref="учебники"/>
+    <file name="u2764.png" crc="508203005" ref="учебники"/>
+    <file name="u2764-a.png" crc="4203552358" ref="учебники"/>
+    <file name="u3009.png" crc="359848273" ref="учебники"/>
+    <file name="u3009-a.png" crc="309761774" ref="учебники"/>
+    <file name="u3325.png" crc="4070645355" ref="учебники"/>
+    <file name="u3325-a.png" crc="244465076" ref="учебники"/>
+    <file name="u2632-4.png" crc="89963286" ref="видео"/>
+    <file name="u2710.png" crc="108028940" ref="видео"/>
+    <file name="u2710-a.png" crc="108028940" ref="видео"/>
+    <file name="u2702.png" crc="4184545572" ref="видео"/>
+    <file name="u2702-a.png" crc="4184545572" ref="видео"/>
+    <file name="u2827-4-a.png" crc="508203005" ref="видео"/>
+    <file name="u3073.png" crc="359848273" ref="видео"/>
+    <file name="u3073-a.png" crc="359848273" ref="видео"/>
+    <file name="u3386.png" crc="4070645355" ref="видео"/>
+    <file name="u3386-a.png" crc="4070645355" ref="видео"/>
+    <file name="u2693.png" crc="108028940" ref="видео"/>
+    <file name="u2693-a.png" crc="494211774" ref="видео"/>
+    <file name="u2689.png" crc="4184545572" ref="видео"/>
+    <file name="u2689-a.png" crc="346324095" ref="видео"/>
+    <file name="u2804-4-a.png" crc="4203552358" ref="видео"/>
+    <file name="u3050.png" crc="359848273" ref="видео"/>
+    <file name="u3050-a.png" crc="309761774" ref="видео"/>
+    <file name="u3365.png" crc="4070645355" ref="видео"/>
+    <file name="u3365-a.png" crc="244465076" ref="видео"/>
+    <file name="u2960-4.png" crc="89963286" ref="презентации"/>
+    <file name="u2853.png" crc="108028940" ref="презентации"/>
+    <file name="u2853-a.png" crc="108028940" ref="презентации"/>
+    <file name="u2863.png" crc="4184545572" ref="презентации"/>
+    <file name="u2863-a.png" crc="4184545572" ref="презентации"/>
+    <file name="u2870.png" crc="508203005" ref="презентации"/>
+    <file name="u2870-a.png" crc="508203005" ref="презентации"/>
+    <file name="u3093-4-a.png" crc="359848273" ref="презентации"/>
+    <file name="u3407.png" crc="4070645355" ref="презентации"/>
+    <file name="u3407-a.png" crc="4070645355" ref="презентации"/>
+    <file name="u2885.png" crc="108028940" ref="презентации"/>
+    <file name="u2885-a.png" crc="494211774" ref="презентации"/>
+    <file name="u2877.png" crc="4184545572" ref="презентации"/>
+    <file name="u2877-a.png" crc="346324095" ref="презентации"/>
+    <file name="u2891.png" crc="508203005" ref="презентации"/>
+    <file name="u2891-a.png" crc="4203552358" ref="презентации"/>
+    <file name="u3112-4-a.png" crc="309761774" ref="презентации"/>
+    <file name="u3431.png" crc="4070645355" ref="презентации"/>
+    <file name="u3431-a.png" crc="244465076" ref="презентации"/>
+    <file name="u3136-4.png" crc="89963286" ref="прочее"/>
+    <file name="u3196.png" crc="108028940" ref="прочее"/>
+    <file name="u3196-a.png" crc="108028940" ref="прочее"/>
+    <file name="u3182.png" crc="4184545572" ref="прочее"/>
+    <file name="u3182-a.png" crc="4184545572" ref="прочее"/>
+    <file name="u3188.png" crc="508203005" ref="прочее"/>
+    <file name="u3188-a.png" crc="508203005" ref="прочее"/>
+    <file name="u3200.png" crc="359848273" ref="прочее"/>
+    <file name="u3200-a.png" crc="359848273" ref="прочее"/>
+    <file name="u3473-4-a.png" crc="4070645355" ref="прочее"/>
+    <file name="u3173.png" crc="108028940" ref="прочее"/>
+    <file name="u3173-a.png" crc="494211774" ref="прочее"/>
+    <file name="u3150.png" crc="4184545572" ref="прочее"/>
+    <file name="u3150-a.png" crc="346324095" ref="прочее"/>
+    <file name="u3157.png" crc="508203005" ref="прочее"/>
+    <file name="u3157-a.png" crc="4203552358" ref="прочее"/>
+    <file name="u3167.png" crc="359848273" ref="прочее"/>
+    <file name="u3167-a.png" crc="309761774" ref="прочее"/>
+    <file name="u3451-4-a.png" crc="244465076" ref="прочее"/>
   </folder>
-  <file name="index.html" crc="120951925" seo="true" mt="1512029409924" redirect="true"/>
-  <file name="учебники.html" crc="3847056994" seo="true" mt="1512029433067" redirect="true"/>
-  <file name="презентации.html" crc="324894019" seo="true" mt="1512029348078" redirect="true"/>
-  <file name="видео.html" crc="3912660069" seo="true" mt="1512029348075" redirect="true"/>
-  <file name="прочее.html" crc="208082585" seo="true" mt="1512029348083" redirect="true"/>
+  <file name="index.html" crc="4198867045" seo="true" mt="1512034744845" redirect="true"/>
+  <file name="учебники.html" crc="4051312031" seo="true" mt="1512034745708" redirect="true"/>
+  <file name="видео.html" crc="136385477" seo="true" mt="1512034746543" redirect="true"/>
+  <file name="презентации.html" crc="4039190516" seo="true" mt="1512034747393" redirect="true"/>
+  <file name="прочее.html" crc="4039209121" seo="true" mt="1512034748437" redirect="true"/>
 </manifest>
