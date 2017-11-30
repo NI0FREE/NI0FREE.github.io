@@ -5,29 +5,119 @@
     <lastmod>2017-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/1.html</loc>
-    <lastmod>2017-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-tool.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://musefree.com/2.html</loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-tool.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://musefree.com/3.html</loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-tool.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://musefree.com/4.html</loc>
     <lastmod>2017-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-tool.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://musefree.com/5.html</loc>
+    <lastmod>2017-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/001-tool.png</image:loc>
+    </image:image>
   </url>
 </urlset>
