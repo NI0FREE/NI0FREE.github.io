@@ -1,0 +1,52 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="OBORIRIRG.com" resolutions="1x" timestamp="1511069064881">
+  <folder name="css">
+    <file name="site_global.css" crc="367024969"/>
+    <file name="index.css" crc="4091948188" ref="index"/>
+    <file name="___-_____-2.css" crc="4259125420" ref="без-имени-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:без-имени-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:без-имени-2"/>
+    <file name="museconfig.js" crc="380897831" ref="index:без-имени-2"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:без-имени-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:без-имени-2"/>
+    <file name="require.js" crc="4157109226" ref="index:без-имени-2"/>
+  </folder>
+  <folder name="images">
+    <file name="вставленное изображение 516x480.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 516x4802.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 516x4803.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-1.jpg" crc="278029561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 516x4804.jpg" crc="3956044642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4277594316" seo="true" mt="1511068981225" redirect="true"/>
+  <file name="без-имени-2.html" crc="4191501633" seo="true" mt="1511069003782" redirect="true"/>
+</manifest>
