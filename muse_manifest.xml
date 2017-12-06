@@ -1,36 +1,37 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1512459570018">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1512566200852">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4278599827" ref="index"/>
-    <file name="4.css" crc="465382314" ref="4"/>
-    <file name="2.css" crc="4119296284" ref="2"/>
-    <file name="5.css" crc="3913789190" ref="5"/>
+    <file name="8class.css" crc="506225858" ref="8class"/>
     <file name="3.css" crc="4261092667" ref="3"/>
+    <file name="4.css" crc="465382314" ref="4"/>
+    <file name="2.css" crc="4027302976" ref="2"/>
+    <file name="index.css" crc="357845953" ref="index"/>
+    <file name="5.css" crc="3913789190" ref="5"/>
   </folder>
   <folder name="assets">
     <file name="действия-населения-при-химически-опастных-авариях.mpg" crc="3854324416" seo="true" mt="1178391750000"/>
     <file name="как-радиация-влияет-на-человека.mp4" crc="381920074" seo="true" mt="1453194626000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:3:4:5"/>
-    <file name="museutils.js" crc="3803043152" ref="index:2:3:4:5"/>
-    <file name="whatinput.js" crc="86476730" ref="index:2:3:4:5"/>
-    <file name="museconfig.js" crc="380897831" ref="index:2:3:4:5"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:2:3:4:5"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:2:3:4:5"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:3:4:5:8class"/>
+    <file name="museutils.js" crc="3803043152" ref="index:2:3:4:5:8class"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2:3:4:5:8class"/>
+    <file name="museconfig.js" crc="380897831" ref="index:2:3:4:5:8class"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:2:3:4:5:8class"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:2:3:4:5:8class"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:2:3:4:5"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:2:3:4:5"/>
-    <file name="require.js" crc="4157109226" ref="index:2:3:4:5"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:2:3:4:5:8class"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:2:3:4:5:8class"/>
+    <file name="require.js" crc="4157109226" ref="index:2:3:4:5:8class"/>
   </folder>
   <folder name="images">
     <file name="1-favicon.ico" crc="31782159" ref="index"/>
     <file name="u920-4.png" crc="89963286" ref="index"/>
     <file name="u5192-4.png" crc="278841497" ref="index"/>
-    <file name="001-home.png" crc="3920041696" seo="true" ref="index:2:3:4:5">
+    <file name="001-home.png" crc="3920041696" seo="true" ref="index:2:3:4:5:8class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -41,9 +42,11 @@
       <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
     </file>
     <file name="u3982-4-a.png" crc="464650634" ref="index"/>
-    <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:2:3:4:5">
+    <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:2:3:4:5:8class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -54,11 +57,13 @@
       <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:2:3:4:5"/>
+    <file name="blank.gif" crc="4208392903" ref="index:2:3:4:5:8class"/>
     <file name="u3622.png" crc="51926602" ref="index"/>
     <file name="u3622-a.png" crc="51926602" ref="index"/>
-    <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:2:3:4:5">
+    <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:2:3:4:5:8class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -74,10 +79,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
     </file>
     <file name="u3644.png" crc="3931636458" ref="index"/>
     <file name="u3644-a.png" crc="3931636458" ref="index"/>
-    <file name="002-picture.png" crc="423889212" seo="true" ref="index:2:3:4:5">
+    <file name="002-picture.png" crc="423889212" seo="true" ref="index:2:3:4:5:8class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -88,10 +95,12 @@
       <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
     </file>
     <file name="u3667.png" crc="128033098" ref="index"/>
     <file name="u3667-a.png" crc="128033098" ref="index"/>
-    <file name="003-apps.png" crc="3931548600" seo="true" ref="index:2:3:4:5">
+    <file name="003-apps.png" crc="3931548600" seo="true" ref="index:2:3:4:5:8class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -102,6 +111,8 @@
       <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
     </file>
     <file name="u3688.png" crc="513275520" ref="index"/>
     <file name="u3688-a.png" crc="513275520" ref="index"/>
@@ -121,14 +132,28 @@
     <file name="u4066-a.png" crc="128033098" ref="index"/>
     <file name="u4071.png" crc="513275520" ref="index"/>
     <file name="u4071-a.png" crc="513275520" ref="index"/>
-    <file name="001-tool.png" crc="443126559" seo="true" ref="index:2:3:4:5">
+    <file name="001-tool.png" crc="443126559" seo="true" ref="index:2:3:4:5:8class">
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="8class" alt=""/>
     </file>
     <file name="u4400-4.png" crc="89963286" ref="2"/>
+    <file name="2e0b3cc9-9c98-11e4-9345-0050569c7d18.jpg" crc="27659197" seo="true" ref="2:8class">
+      <caption webpage="2" alt=""/>
+      <caption webpage="8class" alt=""/>
+    </file>
+    <file name="вставленное изображение 177x230.jpg" crc="420114963" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="вставленное изображение 177x2302.jpg" crc="407796464" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="u5462-4.png" crc="3880208766" ref="2"/>
+    <file name="u5499-4.png" crc="410532690" ref="2"/>
+    <file name="u5541-4.png" crc="4188181923" ref="2"/>
     <file name="u4290.png" crc="464650634" ref="2"/>
     <file name="u4290-a.png" crc="464650634" ref="2"/>
     <file name="u4280-4-a.png" crc="51926602" ref="2"/>
@@ -138,6 +163,12 @@
     <file name="u4267-a.png" crc="128033098" ref="2"/>
     <file name="u4272.png" crc="513275520" ref="2"/>
     <file name="u4272-a.png" crc="513275520" ref="2"/>
+    <file name="u5481_states.png" crc="514828964" ref="2"/>
+    <file name="u5481_states-m.png" crc="514828964" ref="2"/>
+    <file name="u5506.png" crc="514828964" ref="2"/>
+    <file name="u5506-m.png" crc="514828964" ref="2"/>
+    <file name="u5547.png" crc="514828964" ref="2"/>
+    <file name="u5547-m.png" crc="514828964" ref="2"/>
     <file name="u4218.png" crc="464650634" ref="2"/>
     <file name="u4218-a.png" crc="464650634" ref="2"/>
     <file name="u4212-4-a.png" crc="51926602" ref="2"/>
@@ -204,10 +235,35 @@
     <file name="u4924.png" crc="128033098" ref="5"/>
     <file name="u4924-a.png" crc="128033098" ref="5"/>
     <file name="u4903-4-a.png" crc="513275520" ref="5"/>
+    <file name="u5630-4.png" crc="89963286" ref="8class"/>
+    <file name="u5906-6.png" crc="220155263" ref="8class"/>
+    <file name="u5684-4.png" crc="3949652147" ref="8class"/>
+    <file name="u5887-13.png" crc="450770478" ref="8class"/>
+    <file name="u5655.png" crc="464650634" ref="8class"/>
+    <file name="u5655-a.png" crc="464650634" ref="8class"/>
+    <file name="u5645.png" crc="51926602" ref="8class"/>
+    <file name="u5645-a.png" crc="51926602" ref="8class"/>
+    <file name="u5664.png" crc="3931636458" ref="8class"/>
+    <file name="u5664-a.png" crc="3931636458" ref="8class"/>
+    <file name="u5672.png" crc="128033098" ref="8class"/>
+    <file name="u5672-a.png" crc="128033098" ref="8class"/>
+    <file name="u5679.png" crc="513275520" ref="8class"/>
+    <file name="u5679-a.png" crc="513275520" ref="8class"/>
+    <file name="u5708.png" crc="464650634" ref="8class"/>
+    <file name="u5708-a.png" crc="464650634" ref="8class"/>
+    <file name="u5689.png" crc="51926602" ref="8class"/>
+    <file name="u5689-a.png" crc="51926602" ref="8class"/>
+    <file name="u5700.png" crc="3931636458" ref="8class"/>
+    <file name="u5700-a.png" crc="3931636458" ref="8class"/>
+    <file name="u5718.png" crc="128033098" ref="8class"/>
+    <file name="u5718-a.png" crc="128033098" ref="8class"/>
+    <file name="u5721.png" crc="513275520" ref="8class"/>
+    <file name="u5721-a.png" crc="513275520" ref="8class"/>
   </folder>
-  <file name="index.html" crc="3964813576" seo="true" mt="1512395922885" redirect="true"/>
-  <file name="2.html" crc="503582627" seo="true" mt="1512138348073" redirect="true"/>
+  <file name="index.html" crc="375574977" seo="true" mt="1512563496738" redirect="true"/>
+  <file name="2.html" crc="3967265412" seo="true" mt="1512566130495" redirect="true"/>
   <file name="3.html" crc="4197867780" seo="true" mt="1512138488484" redirect="true"/>
   <file name="4.html" crc="475805640" seo="true" mt="1512138527527" redirect="true"/>
   <file name="5.html" crc="3780688378" seo="true" mt="1512138559651" redirect="true"/>
+  <file name="8class.html" crc="491465322" seo="true" mt="1512566096178" redirect="true"/>
 </manifest>
