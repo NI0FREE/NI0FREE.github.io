@@ -194,5 +194,23 @@
     <image:image>
       <image:loc>http://musefree.com/images/2e0b3cc9-9c98-11e4-9345-0050569c7d18.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/cactus.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/trees.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/cactus60x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/road60x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/trees60x45.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
