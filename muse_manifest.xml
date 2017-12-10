@@ -1,34 +1,38 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1512746465536">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1512890899990">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="8class.css" crc="506225858" ref="8class"/>
-    <file name="3.css" crc="3863183761" ref="3"/>
+    <file name="8class.css" crc="4265412911" ref="8class"/>
     <file name="index.css" crc="348385341" ref="index"/>
-    <file name="2.css" crc="4172714682" ref="2"/>
-    <file name="4.css" crc="517699700" ref="4"/>
-    <file name="hardbass.css" crc="4054747749" ref="hardbass"/>
-    <file name="5.css" crc="3766127204" ref="5"/>
+    <file name="6class.css" crc="272482627" ref="6class"/>
+    <file name="10class.css" crc="4239145152" ref="10class"/>
+    <file name="9.css" crc="3766127204" ref="9"/>
+    <file name="books.css" crc="4252202706" ref="books"/>
+    <file name="9class.css" crc="262255589" ref="9class"/>
+    <file name="video.css" crc="115467497" ref="video"/>
+    <file name="7class.css" crc="3863242626" ref="7class"/>
+    <file name="11class.css" crc="4076034398" ref="11class"/>
+    <file name="pres.css" crc="517699700" ref="pres"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="museutils.js" crc="3803043152" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="whatinput.js" crc="86476730" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="museconfig.js" crc="380897831" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="webpro.js" crc="242022427" ref="index:hardbass"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:hardbass"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:hardbass"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:hardbass"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:2:3:4:5:8class:hardbass"/>
-    <file name="require.js" crc="4157109226" ref="index:2:3:4:5:8class:hardbass"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="museutils.js" crc="3803043152" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="whatinput.js" crc="86476730" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="museconfig.js" crc="380897831" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
+    <file name="require.js" crc="4157109226" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
   </folder>
   <folder name="images">
     <file name="obzlit-favicon.ico" crc="31782159" ref="index"/>
     <file name="u920-4.png" crc="89963286" ref="index"/>
     <file name="u5192-4.png" crc="278841497" ref="index"/>
-    <file name="001-home.png" crc="3920041696" seo="true" ref="index:2:3:4:5:8class:hardbass">
+    <file name="001-home.png" crc="3920041696" seo="true" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -37,15 +41,33 @@
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
       <caption webpage="5" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="7class" alt=""/>
       <caption webpage="hardbass" alt=""/>
       <caption webpage="hardbass" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
     </file>
     <file name="u3982-4-a.png" crc="464650634" ref="index"/>
-    <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:2:3:4:5:8class:hardbass">
+    <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -54,17 +76,35 @@
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
       <caption webpage="5" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="7class" alt=""/>
       <caption webpage="hardbass" alt=""/>
       <caption webpage="hardbass" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:2:3:4:5:8class:hardbass"/>
+    <file name="blank.gif" crc="4208392903" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class"/>
     <file name="u3622.png" crc="51926602" ref="index"/>
     <file name="u3622-a.png" crc="51926602" ref="index"/>
-    <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:2:3:4:5:8class:hardbass">
+    <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -73,21 +113,39 @@
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
       <caption webpage="5" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="7class" alt=""/>
       <caption webpage="hardbass" alt=""/>
       <caption webpage="hardbass" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
     </file>
     <file name="u3644.png" crc="3931636458" ref="index"/>
     <file name="u3644-a.png" crc="3931636458" ref="index"/>
-    <file name="002-picture.png" crc="423889212" seo="true" ref="index:2:3:4:5:8class:hardbass">
+    <file name="002-picture.png" crc="423889212" seo="true" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -96,16 +154,34 @@
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
       <caption webpage="5" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="7class" alt=""/>
       <caption webpage="hardbass" alt=""/>
       <caption webpage="hardbass" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
     </file>
     <file name="u3667.png" crc="128033098" ref="index"/>
     <file name="u3667-a.png" crc="128033098" ref="index"/>
-    <file name="003-apps.png" crc="3931548600" seo="true" ref="index:2:3:4:5:8class:hardbass">
+    <file name="003-apps.png" crc="3931548600" seo="true" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class">
       <caption webpage="2" alt=""/>
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
@@ -114,12 +190,30 @@
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
       <caption webpage="5" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="7class" alt=""/>
       <caption webpage="hardbass" alt=""/>
       <caption webpage="hardbass" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
     </file>
     <file name="u3688.png" crc="513275520" ref="index"/>
     <file name="u3688-a.png" crc="513275520" ref="index"/>
@@ -129,7 +223,7 @@
     <file name="u5399-6.png" crc="227117750" ref="index"/>
     <file name="u5424-6.png" crc="4081089363" ref="index"/>
     <file name="u5449-13.png" crc="512121563" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:hardbass"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u4049-4-a.png" crc="464650634" ref="index"/>
     <file name="u4082.png" crc="51926602" ref="index"/>
     <file name="u4082-a.png" crc="51926602" ref="index"/>
@@ -139,135 +233,149 @@
     <file name="u4066-a.png" crc="128033098" ref="index"/>
     <file name="u4071.png" crc="513275520" ref="index"/>
     <file name="u4071-a.png" crc="513275520" ref="index"/>
-    <file name="001-tool.png" crc="443126559" seo="true" ref="index:2:3:4:5:8class:hardbass">
+    <file name="001-tool.png" crc="443126559" seo="true" ref="index:8class:books:video:pres:9:9class:10class:11class:7class:6class">
       <caption webpage="2" alt=""/>
       <caption webpage="3" alt=""/>
       <caption webpage="4" alt=""/>
       <caption webpage="5" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="hardbass" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="u4400-4.png" crc="89963286" ref="books"/>
+    <file name="вставленное изображение 680x915.jpg" crc="4013111964" seo="true" ref="11class">
+      <caption webpage="2" alt=""/>
+      <caption webpage="11class" alt=""/>
+    </file>
+    <file name="вставленное изображение 415x551.jpg" crc="177370623" seo="true" ref="10class">
+      <caption webpage="2" alt=""/>
+      <caption webpage="10class" alt=""/>
+    </file>
+    <file name="вставленное изображение 535x700.jpg" crc="239207784" seo="true" ref="9class">
+      <caption webpage="2" alt=""/>
+      <caption webpage="9class" alt=""/>
+    </file>
+    <file name="2e0b3cc9-9c98-11e4-9345-0050569c7d18.jpg" crc="27659197" seo="true" ref="8class:books">
+      <caption webpage="2" alt=""/>
       <caption webpage="hardbass" alt=""/>
       <caption webpage="8class" alt=""/>
+      <caption webpage="books" alt=""/>
     </file>
-    <file name="u4400-4.png" crc="89963286" ref="2"/>
-    <file name="вставленное изображение 680x915.jpg" crc="4159907771" seo="true" ref="2">
+    <file name="вставленное изображение 177x230.jpg" crc="420114963" seo="true" ref="books:7class">
       <caption webpage="2" alt=""/>
+      <caption webpage="7class" alt=""/>
+      <caption webpage="books" alt=""/>
     </file>
-    <file name="вставленное изображение 415x551.jpg" crc="4189916949" seo="true" ref="2">
+    <file name="вставленное изображение 177x2302.jpg" crc="407796464" seo="true" ref="books:6class">
       <caption webpage="2" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="books" alt=""/>
     </file>
-    <file name="вставленное изображение 535x700.jpg" crc="381612493" seo="true" ref="2">
-      <caption webpage="2" alt=""/>
-    </file>
-    <file name="2e0b3cc9-9c98-11e4-9345-0050569c7d18.jpg" crc="27659197" seo="true" ref="2:8class:hardbass">
-      <caption webpage="2" alt=""/>
-      <caption webpage="hardbass" alt=""/>
-      <caption webpage="8class" alt=""/>
-    </file>
-    <file name="вставленное изображение 177x230.jpg" crc="420114963" seo="true" ref="2">
-      <caption webpage="2" alt=""/>
-    </file>
-    <file name="вставленное изображение 177x2302.jpg" crc="407796464" seo="true" ref="2">
-      <caption webpage="2" alt=""/>
-    </file>
-    <file name="u5979-4.png" crc="3880208766" ref="2"/>
-    <file name="u5942-4.png" crc="3880208766" ref="2"/>
-    <file name="u5967-4.png" crc="3880208766" ref="2"/>
-    <file name="u5462-4.png" crc="3880208766" ref="2"/>
-    <file name="u5499-4.png" crc="410532690" ref="2"/>
-    <file name="u5541-4.png" crc="357595113" ref="2"/>
-    <file name="u5983_states.png" crc="514828964" ref="2"/>
-    <file name="u5983_states-m.png" crc="514828964" ref="2"/>
-    <file name="u4290.png" crc="464650634" ref="2"/>
-    <file name="u4290-a.png" crc="464650634" ref="2"/>
-    <file name="u4280-4-a.png" crc="51926602" ref="2"/>
-    <file name="u4259.png" crc="3931636458" ref="2"/>
-    <file name="u4259-a.png" crc="3931636458" ref="2"/>
-    <file name="u4267.png" crc="128033098" ref="2"/>
-    <file name="u4267-a.png" crc="128033098" ref="2"/>
-    <file name="u4272.png" crc="513275520" ref="2"/>
-    <file name="u4272-a.png" crc="513275520" ref="2"/>
-    <file name="u5481_states.png" crc="514828964" ref="2"/>
-    <file name="u5481_states-m.png" crc="514828964" ref="2"/>
-    <file name="u5506.png" crc="514828964" ref="2"/>
-    <file name="u5506-m.png" crc="514828964" ref="2"/>
-    <file name="u5547.png" crc="514828964" ref="2"/>
-    <file name="u5547-m.png" crc="514828964" ref="2"/>
-    <file name="u5950_states.png" crc="514828964" ref="2"/>
-    <file name="u5950_states-m.png" crc="514828964" ref="2"/>
-    <file name="u5956_states.png" crc="514828964" ref="2"/>
-    <file name="u5956_states-m.png" crc="514828964" ref="2"/>
-    <file name="u4218.png" crc="464650634" ref="2"/>
-    <file name="u4218-a.png" crc="464650634" ref="2"/>
-    <file name="u4212-4-a.png" crc="51926602" ref="2"/>
-    <file name="u4229.png" crc="3931636458" ref="2"/>
-    <file name="u4229-a.png" crc="3931636458" ref="2"/>
-    <file name="u4234.png" crc="128033098" ref="2"/>
-    <file name="u4234-a.png" crc="128033098" ref="2"/>
-    <file name="u4242.png" crc="513275520" ref="2"/>
-    <file name="u4242-a.png" crc="513275520" ref="2"/>
-    <file name="u4420-4.png" crc="89963286" ref="3"/>
-    <file name="u6238-9.png" crc="186480776" ref="3"/>
-    <file name="u4562.png" crc="464650634" ref="3"/>
-    <file name="u4562-a.png" crc="464650634" ref="3"/>
-    <file name="u4550.png" crc="51926602" ref="3"/>
-    <file name="u4550-a.png" crc="51926602" ref="3"/>
-    <file name="u4540-4-a.png" crc="3931636458" ref="3"/>
-    <file name="u4559.png" crc="128033098" ref="3"/>
-    <file name="u4559-a.png" crc="128033098" ref="3"/>
-    <file name="u4530.png" crc="513275520" ref="3"/>
-    <file name="u4530-a.png" crc="513275520" ref="3"/>
-    <file name="u4608.png" crc="464650634" ref="3"/>
-    <file name="u4608-a.png" crc="464650634" ref="3"/>
-    <file name="u4571.png" crc="51926602" ref="3"/>
-    <file name="u4571-a.png" crc="51926602" ref="3"/>
-    <file name="u4590-4-a.png" crc="3931636458" ref="3"/>
-    <file name="u4582.png" crc="128033098" ref="3"/>
-    <file name="u4582-a.png" crc="128033098" ref="3"/>
-    <file name="u4599.png" crc="513275520" ref="3"/>
-    <file name="u4599-a.png" crc="513275520" ref="3"/>
-    <file name="u4634-4.png" crc="89963286" ref="4"/>
-    <file name="u4766.png" crc="464650634" ref="4"/>
-    <file name="u4766-a.png" crc="464650634" ref="4"/>
-    <file name="u4756.png" crc="51926602" ref="4"/>
-    <file name="u4756-a.png" crc="51926602" ref="4"/>
-    <file name="u4771.png" crc="3931636458" ref="4"/>
-    <file name="u4771-a.png" crc="3931636458" ref="4"/>
-    <file name="u4778-4-a.png" crc="128033098" ref="4"/>
-    <file name="u4748.png" crc="513275520" ref="4"/>
-    <file name="u4748-a.png" crc="513275520" ref="4"/>
-    <file name="u4793.png" crc="464650634" ref="4"/>
-    <file name="u4793-a.png" crc="464650634" ref="4"/>
-    <file name="u4818.png" crc="51926602" ref="4"/>
-    <file name="u4818-a.png" crc="51926602" ref="4"/>
-    <file name="u4799.png" crc="3931636458" ref="4"/>
-    <file name="u4799-a.png" crc="3931636458" ref="4"/>
-    <file name="u4821-4-a.png" crc="128033098" ref="4"/>
-    <file name="u4807.png" crc="513275520" ref="4"/>
-    <file name="u4807-a.png" crc="513275520" ref="4"/>
-    <file name="u4848-4.png" crc="89963286" ref="5"/>
-    <file name="u6250-4.png" crc="4285340446" ref="5"/>
-    <file name="004-youtube.png" crc="3919007491" seo="true" ref="5">
+    <file name="u5979-4.png" crc="4124255529" ref="books"/>
+    <file name="u5942-4.png" crc="3962372470" ref="books"/>
+    <file name="u5967-4.png" crc="252417135" ref="books"/>
+    <file name="u5462-4.png" crc="3880208766" ref="books"/>
+    <file name="u5499-4.png" crc="410532690" ref="books"/>
+    <file name="u5541-4.png" crc="357595113" ref="books"/>
+    <file name="u5983_states.png" crc="514828964" ref="books"/>
+    <file name="u5983_states-m.png" crc="514828964" ref="books"/>
+    <file name="u4290.png" crc="464650634" ref="books"/>
+    <file name="u4290-a.png" crc="464650634" ref="books"/>
+    <file name="u4280-4-a.png" crc="51926602" ref="books"/>
+    <file name="u4259.png" crc="3931636458" ref="books"/>
+    <file name="u4259-a.png" crc="3931636458" ref="books"/>
+    <file name="u4267.png" crc="128033098" ref="books"/>
+    <file name="u4267-a.png" crc="128033098" ref="books"/>
+    <file name="u4272.png" crc="513275520" ref="books"/>
+    <file name="u4272-a.png" crc="513275520" ref="books"/>
+    <file name="u5481_states.png" crc="514828964" ref="books"/>
+    <file name="u5481_states-m.png" crc="514828964" ref="books"/>
+    <file name="u5950_states.png" crc="514828964" ref="books"/>
+    <file name="u5950_states-m.png" crc="514828964" ref="books"/>
+    <file name="u5956_states.png" crc="514828964" ref="books"/>
+    <file name="u5956_states-m.png" crc="514828964" ref="books"/>
+    <file name="u4218.png" crc="464650634" ref="books"/>
+    <file name="u4218-a.png" crc="464650634" ref="books"/>
+    <file name="u4212-4-a.png" crc="51926602" ref="books"/>
+    <file name="u4229.png" crc="3931636458" ref="books"/>
+    <file name="u4229-a.png" crc="3931636458" ref="books"/>
+    <file name="u4234.png" crc="128033098" ref="books"/>
+    <file name="u4234-a.png" crc="128033098" ref="books"/>
+    <file name="u4242.png" crc="513275520" ref="books"/>
+    <file name="u4242-a.png" crc="513275520" ref="books"/>
+    <file name="u4420-4.png" crc="89963286" ref="video"/>
+    <file name="u6238-9.png" crc="186480776" ref="video"/>
+    <file name="u4562.png" crc="464650634" ref="video"/>
+    <file name="u4562-a.png" crc="464650634" ref="video"/>
+    <file name="u4550.png" crc="51926602" ref="video"/>
+    <file name="u4550-a.png" crc="51926602" ref="video"/>
+    <file name="u4540-4-a.png" crc="3931636458" ref="video"/>
+    <file name="u4559.png" crc="128033098" ref="video"/>
+    <file name="u4559-a.png" crc="128033098" ref="video"/>
+    <file name="u4530.png" crc="513275520" ref="video"/>
+    <file name="u4530-a.png" crc="513275520" ref="video"/>
+    <file name="u4608.png" crc="464650634" ref="video"/>
+    <file name="u4608-a.png" crc="464650634" ref="video"/>
+    <file name="u4571.png" crc="51926602" ref="video"/>
+    <file name="u4571-a.png" crc="51926602" ref="video"/>
+    <file name="u4590-4-a.png" crc="3931636458" ref="video"/>
+    <file name="u4582.png" crc="128033098" ref="video"/>
+    <file name="u4582-a.png" crc="128033098" ref="video"/>
+    <file name="u4599.png" crc="513275520" ref="video"/>
+    <file name="u4599-a.png" crc="513275520" ref="video"/>
+    <file name="u4634-4.png" crc="89963286" ref="pres"/>
+    <file name="u4766.png" crc="464650634" ref="pres"/>
+    <file name="u4766-a.png" crc="464650634" ref="pres"/>
+    <file name="u4756.png" crc="51926602" ref="pres"/>
+    <file name="u4756-a.png" crc="51926602" ref="pres"/>
+    <file name="u4771.png" crc="3931636458" ref="pres"/>
+    <file name="u4771-a.png" crc="3931636458" ref="pres"/>
+    <file name="u4778-4-a.png" crc="128033098" ref="pres"/>
+    <file name="u4748.png" crc="513275520" ref="pres"/>
+    <file name="u4748-a.png" crc="513275520" ref="pres"/>
+    <file name="u4793.png" crc="464650634" ref="pres"/>
+    <file name="u4793-a.png" crc="464650634" ref="pres"/>
+    <file name="u4818.png" crc="51926602" ref="pres"/>
+    <file name="u4818-a.png" crc="51926602" ref="pres"/>
+    <file name="u4799.png" crc="3931636458" ref="pres"/>
+    <file name="u4799-a.png" crc="3931636458" ref="pres"/>
+    <file name="u4821-4-a.png" crc="128033098" ref="pres"/>
+    <file name="u4807.png" crc="513275520" ref="pres"/>
+    <file name="u4807-a.png" crc="513275520" ref="pres"/>
+    <file name="u4848-4.png" crc="89963286" ref="9"/>
+    <file name="u6250-4.png" crc="4285340446" ref="9"/>
+    <file name="004-youtube.png" crc="3919007491" seo="true" ref="9">
       <caption webpage="5" alt=""/>
+      <caption webpage="9" alt=""/>
     </file>
-    <file name="u6266-4.png" crc="3849804621" ref="5"/>
-    <file name="u4896.png" crc="464650634" ref="5"/>
-    <file name="u4896-a.png" crc="464650634" ref="5"/>
-    <file name="u4859.png" crc="51926602" ref="5"/>
-    <file name="u4859-a.png" crc="51926602" ref="5"/>
-    <file name="u4871.png" crc="3931636458" ref="5"/>
-    <file name="u4871-a.png" crc="3931636458" ref="5"/>
-    <file name="u4877.png" crc="128033098" ref="5"/>
-    <file name="u4877-a.png" crc="128033098" ref="5"/>
-    <file name="u4885-4-a.png" crc="513275520" ref="5"/>
-    <file name="u4929.png" crc="464650634" ref="5"/>
-    <file name="u4929-a.png" crc="464650634" ref="5"/>
-    <file name="u4914.png" crc="51926602" ref="5"/>
-    <file name="u4914-a.png" crc="51926602" ref="5"/>
-    <file name="u4935.png" crc="3931636458" ref="5"/>
-    <file name="u4935-a.png" crc="3931636458" ref="5"/>
-    <file name="u4924.png" crc="128033098" ref="5"/>
-    <file name="u4924-a.png" crc="128033098" ref="5"/>
-    <file name="u4903-4-a.png" crc="513275520" ref="5"/>
+    <file name="u6266-4.png" crc="4069596584" ref="9"/>
+    <file name="u4896.png" crc="464650634" ref="9"/>
+    <file name="u4896-a.png" crc="464650634" ref="9"/>
+    <file name="u4859.png" crc="51926602" ref="9"/>
+    <file name="u4859-a.png" crc="51926602" ref="9"/>
+    <file name="u4871.png" crc="3931636458" ref="9"/>
+    <file name="u4871-a.png" crc="3931636458" ref="9"/>
+    <file name="u4877.png" crc="128033098" ref="9"/>
+    <file name="u4877-a.png" crc="128033098" ref="9"/>
+    <file name="u4885-4-a.png" crc="513275520" ref="9"/>
+    <file name="u4929.png" crc="464650634" ref="9"/>
+    <file name="u4929-a.png" crc="464650634" ref="9"/>
+    <file name="u4914.png" crc="51926602" ref="9"/>
+    <file name="u4914-a.png" crc="51926602" ref="9"/>
+    <file name="u4935.png" crc="3931636458" ref="9"/>
+    <file name="u4935-a.png" crc="3931636458" ref="9"/>
+    <file name="u4924.png" crc="128033098" ref="9"/>
+    <file name="u4924-a.png" crc="128033098" ref="9"/>
+    <file name="u4903-4-a.png" crc="513275520" ref="9"/>
     <file name="u5630-4.png" crc="89963286" ref="8class"/>
     <file name="u5906-6.png" crc="220155263" ref="8class"/>
     <file name="u5684-4.png" crc="3949652147" ref="8class"/>
@@ -292,54 +400,150 @@
     <file name="u5718-a.png" crc="128033098" ref="8class"/>
     <file name="u5721.png" crc="513275520" ref="8class"/>
     <file name="u5721-a.png" crc="513275520" ref="8class"/>
-    <file name="u6007-4.png" crc="89963286" ref="hardbass"/>
-    <file name="u6008-6.png" crc="220155263" ref="hardbass"/>
-    <file name="u6208-4.png" crc="3949652147" ref="hardbass"/>
-    <file name="u6005-13.png" crc="450770478" ref="hardbass"/>
-    <file name="u6205.png" crc="464650634" ref="hardbass"/>
-    <file name="u6205-a.png" crc="464650634" ref="hardbass"/>
-    <file name="u6190.png" crc="51926602" ref="hardbass"/>
-    <file name="u6190-a.png" crc="51926602" ref="hardbass"/>
-    <file name="u6195.png" crc="3931636458" ref="hardbass"/>
-    <file name="u6195-a.png" crc="3931636458" ref="hardbass"/>
-    <file name="u6179.png" crc="128033098" ref="hardbass"/>
-    <file name="u6179-a.png" crc="128033098" ref="hardbass"/>
-    <file name="u6172.png" crc="513275520" ref="hardbass"/>
-    <file name="u6172-a.png" crc="513275520" ref="hardbass"/>
-    <file name="cactus.jpg" crc="3936421572" seo="true" ref="hardbass">
-      <caption webpage="hardbass" alt=""/>
+    <file name="вставленное изображение 680x915163x219.jpg" crc="4159907771" seo="true" ref="books">
+      <caption webpage="books" alt=""/>
     </file>
-    <file name="road.jpg" crc="3870041364" seo="true" ref="hardbass">
-      <caption webpage="hardbass" alt=""/>
+    <file name="вставленное изображение 415x551162x216.jpg" crc="4189916949" seo="true" ref="books">
+      <caption webpage="books" alt=""/>
     </file>
-    <file name="trees.jpg" crc="48470008" seo="true" ref="hardbass">
-      <caption webpage="hardbass" alt=""/>
+    <file name="вставленное изображение 535x700161x211.jpg" crc="381612493" seo="true" ref="books">
+      <caption webpage="books" alt=""/>
     </file>
-    <file name="cactus60x45.jpg" crc="4196736966" seo="true" ref="hardbass">
-      <caption webpage="hardbass" alt=""/>
-    </file>
-    <file name="road60x45.jpg" crc="4293851619" seo="true" ref="hardbass">
-      <caption webpage="hardbass" alt=""/>
-    </file>
-    <file name="trees60x45.jpg" crc="221420560" seo="true" ref="hardbass">
-      <caption webpage="hardbass" alt=""/>
-    </file>
-    <file name="u6138.png" crc="464650634" ref="hardbass"/>
-    <file name="u6138-a.png" crc="464650634" ref="hardbass"/>
-    <file name="u6164.png" crc="51926602" ref="hardbass"/>
-    <file name="u6164-a.png" crc="51926602" ref="hardbass"/>
-    <file name="u6147.png" crc="3931636458" ref="hardbass"/>
-    <file name="u6147-a.png" crc="3931636458" ref="hardbass"/>
-    <file name="u6157.png" crc="128033098" ref="hardbass"/>
-    <file name="u6157-a.png" crc="128033098" ref="hardbass"/>
-    <file name="u6131.png" crc="513275520" ref="hardbass"/>
-    <file name="u6131-a.png" crc="513275520" ref="hardbass"/>
+    <file name="u5506_states.png" crc="514828964" ref="books"/>
+    <file name="u5506_states-m.png" crc="514828964" ref="books"/>
+    <file name="u5547_states.png" crc="514828964" ref="books"/>
+    <file name="u5547_states-m.png" crc="514828964" ref="books"/>
+    <file name="u7881-7.png" crc="3846116655" ref="video"/>
+    <file name="u6783-4.png" crc="89963286" ref="9class"/>
+    <file name="u6778-6.png" crc="220155263" ref="9class"/>
+    <file name="u6791-4.png" crc="4204938402" ref="9class"/>
+    <file name="u6785-13.png" crc="450770478" ref="9class"/>
+    <file name="u6829.png" crc="464650634" ref="9class"/>
+    <file name="u6829-a.png" crc="464650634" ref="9class"/>
+    <file name="u6821.png" crc="51926602" ref="9class"/>
+    <file name="u6821-a.png" crc="51926602" ref="9class"/>
+    <file name="u6835.png" crc="3931636458" ref="9class"/>
+    <file name="u6835-a.png" crc="3931636458" ref="9class"/>
+    <file name="u6803.png" crc="128033098" ref="9class"/>
+    <file name="u6803-a.png" crc="128033098" ref="9class"/>
+    <file name="u6808.png" crc="513275520" ref="9class"/>
+    <file name="u6808-a.png" crc="513275520" ref="9class"/>
+    <file name="u6870.png" crc="464650634" ref="9class"/>
+    <file name="u6870-a.png" crc="464650634" ref="9class"/>
+    <file name="u6864.png" crc="51926602" ref="9class"/>
+    <file name="u6864-a.png" crc="51926602" ref="9class"/>
+    <file name="u6880.png" crc="3931636458" ref="9class"/>
+    <file name="u6880-a.png" crc="3931636458" ref="9class"/>
+    <file name="u6846.png" crc="128033098" ref="9class"/>
+    <file name="u6846-a.png" crc="128033098" ref="9class"/>
+    <file name="u6855.png" crc="513275520" ref="9class"/>
+    <file name="u6855-a.png" crc="513275520" ref="9class"/>
+    <file name="u7002-4.png" crc="89963286" ref="10class"/>
+    <file name="u7008-6.png" crc="220155263" ref="10class"/>
+    <file name="u6994-4.png" crc="528419149" ref="10class"/>
+    <file name="u7004-13.png" crc="450770478" ref="10class"/>
+    <file name="u6924.png" crc="464650634" ref="10class"/>
+    <file name="u6924-a.png" crc="464650634" ref="10class"/>
+    <file name="u6917.png" crc="51926602" ref="10class"/>
+    <file name="u6917-a.png" crc="51926602" ref="10class"/>
+    <file name="u6932.png" crc="3931636458" ref="10class"/>
+    <file name="u6932-a.png" crc="3931636458" ref="10class"/>
+    <file name="u6910.png" crc="128033098" ref="10class"/>
+    <file name="u6910-a.png" crc="128033098" ref="10class"/>
+    <file name="u6940.png" crc="513275520" ref="10class"/>
+    <file name="u6940-a.png" crc="513275520" ref="10class"/>
+    <file name="u6955.png" crc="464650634" ref="10class"/>
+    <file name="u6955-a.png" crc="464650634" ref="10class"/>
+    <file name="u6972.png" crc="51926602" ref="10class"/>
+    <file name="u6972-a.png" crc="51926602" ref="10class"/>
+    <file name="u6975.png" crc="3931636458" ref="10class"/>
+    <file name="u6975-a.png" crc="3931636458" ref="10class"/>
+    <file name="u6961.png" crc="128033098" ref="10class"/>
+    <file name="u6961-a.png" crc="128033098" ref="10class"/>
+    <file name="u6988.png" crc="513275520" ref="10class"/>
+    <file name="u6988-a.png" crc="513275520" ref="10class"/>
+    <file name="u7247-4.png" crc="89963286" ref="11class"/>
+    <file name="u7242-6.png" crc="220155263" ref="11class"/>
+    <file name="u7255-4.png" crc="4007417805" ref="11class"/>
+    <file name="u7249-13.png" crc="450770478" ref="11class"/>
+    <file name="u7293.png" crc="464650634" ref="11class"/>
+    <file name="u7293-a.png" crc="464650634" ref="11class"/>
+    <file name="u7285.png" crc="51926602" ref="11class"/>
+    <file name="u7285-a.png" crc="51926602" ref="11class"/>
+    <file name="u7299.png" crc="3931636458" ref="11class"/>
+    <file name="u7299-a.png" crc="3931636458" ref="11class"/>
+    <file name="u7267.png" crc="128033098" ref="11class"/>
+    <file name="u7267-a.png" crc="128033098" ref="11class"/>
+    <file name="u7272.png" crc="513275520" ref="11class"/>
+    <file name="u7272-a.png" crc="513275520" ref="11class"/>
+    <file name="u7334.png" crc="464650634" ref="11class"/>
+    <file name="u7334-a.png" crc="464650634" ref="11class"/>
+    <file name="u7328.png" crc="51926602" ref="11class"/>
+    <file name="u7328-a.png" crc="51926602" ref="11class"/>
+    <file name="u7344.png" crc="3931636458" ref="11class"/>
+    <file name="u7344-a.png" crc="3931636458" ref="11class"/>
+    <file name="u7310.png" crc="128033098" ref="11class"/>
+    <file name="u7310-a.png" crc="128033098" ref="11class"/>
+    <file name="u7319.png" crc="513275520" ref="11class"/>
+    <file name="u7319-a.png" crc="513275520" ref="11class"/>
+    <file name="u7372-4.png" crc="89963286" ref="7class"/>
+    <file name="u7368-6.png" crc="220155263" ref="7class"/>
+    <file name="u7469-4.png" crc="3993268784" ref="7class"/>
+    <file name="u7371-13.png" crc="450770478" ref="7class"/>
+    <file name="u7407.png" crc="464650634" ref="7class"/>
+    <file name="u7407-a.png" crc="464650634" ref="7class"/>
+    <file name="u7399.png" crc="51926602" ref="7class"/>
+    <file name="u7399-a.png" crc="51926602" ref="7class"/>
+    <file name="u7389.png" crc="3931636458" ref="7class"/>
+    <file name="u7389-a.png" crc="3931636458" ref="7class"/>
+    <file name="u7413.png" crc="128033098" ref="7class"/>
+    <file name="u7413-a.png" crc="128033098" ref="7class"/>
+    <file name="u7421.png" crc="513275520" ref="7class"/>
+    <file name="u7421-a.png" crc="513275520" ref="7class"/>
+    <file name="u7458.png" crc="464650634" ref="7class"/>
+    <file name="u7458-a.png" crc="464650634" ref="7class"/>
+    <file name="u7433.png" crc="51926602" ref="7class"/>
+    <file name="u7433-a.png" crc="51926602" ref="7class"/>
+    <file name="u7465.png" crc="3931636458" ref="7class"/>
+    <file name="u7465-a.png" crc="3931636458" ref="7class"/>
+    <file name="u7452.png" crc="128033098" ref="7class"/>
+    <file name="u7452-a.png" crc="128033098" ref="7class"/>
+    <file name="u7442.png" crc="513275520" ref="7class"/>
+    <file name="u7442-a.png" crc="513275520" ref="7class"/>
+    <file name="u7599-4.png" crc="89963286" ref="6class"/>
+    <file name="u7602-6.png" crc="220155263" ref="6class"/>
+    <file name="u7722-4.png" crc="3828400120" ref="6class"/>
+    <file name="u7604-13.png" crc="450770478" ref="6class"/>
+    <file name="u7744.png" crc="464650634" ref="6class"/>
+    <file name="u7744-a.png" crc="464650634" ref="6class"/>
+    <file name="u7729.png" crc="51926602" ref="6class"/>
+    <file name="u7729-a.png" crc="51926602" ref="6class"/>
+    <file name="u7736.png" crc="3931636458" ref="6class"/>
+    <file name="u7736-a.png" crc="3931636458" ref="6class"/>
+    <file name="u7763.png" crc="128033098" ref="6class"/>
+    <file name="u7763-a.png" crc="128033098" ref="6class"/>
+    <file name="u7750.png" crc="513275520" ref="6class"/>
+    <file name="u7750-a.png" crc="513275520" ref="6class"/>
+    <file name="u7771.png" crc="464650634" ref="6class"/>
+    <file name="u7771-a.png" crc="464650634" ref="6class"/>
+    <file name="u7800.png" crc="51926602" ref="6class"/>
+    <file name="u7800-a.png" crc="51926602" ref="6class"/>
+    <file name="u7779.png" crc="3931636458" ref="6class"/>
+    <file name="u7779-a.png" crc="3931636458" ref="6class"/>
+    <file name="u7789.png" crc="128033098" ref="6class"/>
+    <file name="u7789-a.png" crc="128033098" ref="6class"/>
+    <file name="u7792.png" crc="513275520" ref="6class"/>
+    <file name="u7792-a.png" crc="513275520" ref="6class"/>
   </folder>
-  <file name="index.html" crc="268845183" seo="true" mt="1512745458124" redirect="true"/>
-  <file name="2.html" crc="3803216434" seo="true" mt="1512728284427" redirect="true"/>
-  <file name="3.html" crc="4183135616" seo="true" mt="1512745031795" redirect="true"/>
-  <file name="4.html" crc="122393857" seo="true" mt="1512138527527" redirect="true"/>
-  <file name="5.html" crc="519326577" seo="true" mt="1512745751527" redirect="true"/>
-  <file name="8class.html" crc="4162568435" seo="true" mt="1512566096178" redirect="true"/>
-  <file name="hardbass.html" crc="4182656376" seo="true" mt="1512746460022" redirect="true"/>
+  <file name="index.html" crc="353918971" seo="true" mt="1512886458005" redirect="true"/>
+  <file name="8class.html" crc="3938310461" seo="true" mt="1512887661450" redirect="true"/>
+  <file name="books.html" crc="4242678348" seo="true" mt="1512888138936" redirect="true"/>
+  <file name="video.html" crc="4163298730" seo="true" mt="1512889274322" redirect="true"/>
+  <file name="pres.html" crc="3823007159" seo="true" mt="1512886458008" redirect="true"/>
+  <file name="9.html" crc="3984352170" seo="true" mt="1512889145529" redirect="true"/>
+  <file name="9class.html" crc="84726081" seo="true" mt="1512888010359" redirect="true"/>
+  <file name="10class.html" crc="4009057603" seo="true" mt="1512887998984" redirect="true"/>
+  <file name="11class.html" crc="131635538" seo="true" mt="1512887888134" redirect="true"/>
+  <file name="7class.html" crc="212129943" seo="true" mt="1512887986777" redirect="true"/>
+  <file name="6class.html" crc="98620807" seo="true" mt="1512887563668" redirect="true"/>
 </manifest>
