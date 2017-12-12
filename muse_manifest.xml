@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1513085087758">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yaya-yay2014@mail.ru" resolutions="1x" timestamp="1513089639705">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="pres.css" crc="292599843" ref="pres"/>
-    <file name="index.css" crc="98318839" ref="index"/>
-    <file name="6class.css" crc="272482627" ref="6class"/>
-    <file name="8class.css" crc="4265412911" ref="8class"/>
-    <file name="9.css" crc="3843320600" ref="9"/>
-    <file name="books.css" crc="282713588" ref="books"/>
-    <file name="11class.css" crc="4076034398" ref="11class"/>
-    <file name="video.css" crc="446735156" ref="video"/>
+    <file name="index.css" crc="317256601" ref="index"/>
     <file name="10class.css" crc="4239145152" ref="10class"/>
-    <file name="7class.css" crc="3863242626" ref="7class"/>
+    <file name="video.css" crc="393179619" ref="video"/>
     <file name="9class.css" crc="262255589" ref="9class"/>
+    <file name="6class.css" crc="272482627" ref="6class"/>
+    <file name="7class.css" crc="3863242626" ref="7class"/>
+    <file name="8class.css" crc="4265412911" ref="8class"/>
+    <file name="9.css" crc="458602671" ref="9"/>
+    <file name="pres.css" crc="32156759" ref="pres"/>
+    <file name="11class.css" crc="4076034398" ref="11class"/>
+    <file name="books.css" crc="3770559250" ref="books"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class"/>
@@ -40,31 +40,31 @@
     <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class"/>
     <file name="u5212-4.png" crc="4017328071" ref="index"/>
@@ -90,51 +90,51 @@
     <file name="001-home.png" crc="3920041696" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
     </file>
     <file name="u3982-4-a.png" crc="464650634" ref="index"/>
     <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
     </file>
     <file name="u3622.png" crc="51926602" ref="index"/>
     <file name="u3622-a.png" crc="51926602" ref="index"/>
@@ -143,52 +143,52 @@
     <file name="002-picture.png" crc="423889212" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
     </file>
     <file name="u3667.png" crc="128033098" ref="index"/>
     <file name="u3667-a.png" crc="128033098" ref="index"/>
     <file name="003-apps.png" crc="3931548600" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="books" alt=""/>
-      <caption webpage="books" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
     </file>
     <file name="u3688.png" crc="513275520" ref="index"/>
     <file name="u3688-a.png" crc="513275520" ref="index"/>
@@ -205,16 +205,16 @@
     <file name="u4071-a.png" crc="513275520" ref="index"/>
     <file name="001-tool.png" crc="443126559" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class">
       <caption webpage="9" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="8class" alt=""/>
-      <caption webpage="books" alt=""/>
       <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="10class" alt=""/>
     </file>
     <file name="u4400-4.png" crc="89963286" ref="books"/>
     <file name="вставленное изображение 680x915163x219.jpg" crc="4159907771" seo="true" ref="books">
@@ -532,11 +532,11 @@
     <file name="u7792.png" crc="513275520" ref="6class"/>
     <file name="u7792-a.png" crc="513275520" ref="6class"/>
   </folder>
-  <file name="index.html" crc="3955728264" seo="true" mt="1513084035326" redirect="true"/>
-  <file name="books.html" crc="4225699626" seo="true" mt="1513075798980" redirect="true"/>
-  <file name="video.html" crc="4286132896" seo="true" mt="1513085055942" redirect="true"/>
-  <file name="pres.html" crc="4031373458" seo="true" mt="1513084000095" redirect="true"/>
-  <file name="9.html" crc="4234326639" seo="true" mt="1513083598914" redirect="true"/>
+  <file name="index.html" crc="524402344" seo="true" mt="1513084035326" redirect="true"/>
+  <file name="books.html" crc="4254106982" seo="true" mt="1513075798980" redirect="true"/>
+  <file name="video.html" crc="464348313" seo="true" mt="1513085055942" redirect="true"/>
+  <file name="pres.html" crc="4067537081" seo="true" mt="1513084000095" redirect="true"/>
+  <file name="9.html" crc="4041496491" seo="true" mt="1513083598914" redirect="true"/>
   <file name="8class.html" crc="432501527" seo="true" mt="1513075798984" redirect="true"/>
   <file name="9class.html" crc="4134959979" seo="true" mt="1513075798985" redirect="true"/>
   <file name="10class.html" crc="495974249" seo="true" mt="1513075798986" redirect="true"/>
