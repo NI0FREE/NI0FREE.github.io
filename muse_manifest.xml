@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1513080784173">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1513080945838">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="pres.css" crc="503203835" ref="pres"/>
     <file name="index.css" crc="292633833" ref="index"/>
     <file name="6class.css" crc="272482627" ref="6class"/>
     <file name="8class.css" crc="4265412911" ref="8class"/>
-    <file name="9.css" crc="4217758339" ref="9"/>
+    <file name="9.css" crc="3843320600" ref="9"/>
     <file name="books.css" crc="282713588" ref="books"/>
     <file name="11class.css" crc="4076034398" ref="11class"/>
     <file name="video.css" crc="352617986" ref="video"/>
@@ -27,6 +27,10 @@
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class"/>
     <file name="require.js" crc="4157109226" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class"/>
+    <file name="form_check.php" crc="147359589" ref="9"/>
+    <file name="form_throttle.php" crc="93986428" ref="9"/>
+    <file name="form_process.php" crc="3851993751" ref="9"/>
+    <file name="form-u8059.php" crc="126908211" ref="9"/>
   </folder>
   <folder name="images">
     <file name="obzlit-favicon.ico" crc="31782159" ref="index"/>
@@ -339,9 +343,6 @@
     <file name="u8073-ferr.png" crc="492061600" ref="9"/>
     <file name="u8062.png" crc="3779112671" ref="9"/>
     <file name="u8062-ferr.png" crc="4194723305" ref="9"/>
-    <file name="u8146.png" crc="3899109768" ref="9"/>
-    <file name="u8146-ferr.png" crc="3884090123" ref="9"/>
-    <file name="captcha.png" crc="362548909" ref="9"/>
     <file name="u4896.png" crc="464650634" ref="9"/>
     <file name="u4896-a.png" crc="464650634" ref="9"/>
     <file name="u4859.png" crc="51926602" ref="9"/>
@@ -518,7 +519,7 @@
   <file name="books.html" crc="4225699626" seo="true" mt="1513075798980" redirect="true"/>
   <file name="video.html" crc="234273443" seo="true" mt="1513075798980" redirect="true"/>
   <file name="pres.html" crc="35869310" seo="true" mt="1513079489012" redirect="true"/>
-  <file name="9.html" crc="55062299" seo="true" mt="1513080485683" redirect="true"/>
+  <file name="9.html" crc="506458658" seo="true" mt="1513080922965" redirect="true"/>
   <file name="8class.html" crc="432501527" seo="true" mt="1513075798984" redirect="true"/>
   <file name="9class.html" crc="4134959979" seo="true" mt="1513075798985" redirect="true"/>
   <file name="10class.html" crc="495974249" seo="true" mt="1513075798986" redirect="true"/>
