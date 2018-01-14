@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>OBZLIT</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=317256601" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4003506070" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -41,7 +41,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="browser_width grpelem" id="u914-bw">
      <div id="u914"><!-- group -->
       <div class="clearfix" id="u914_align_to_page">
-       <a class="anchor_item grpelem" id="home"></a>
+       <div class="clearfix grpelem" id="phome"><!-- column -->
+        <a class="anchor_item colelem" id="home"></a>
+        <div class="clip_frame colelem" id="u8375"><!-- image -->
+         <img class="block" id="u8375_img" src="images/%d0%b1%d0%b5%d0%b7%d1%8b%d0%bc%d1%8f%d0%bd%d0%bd%d1%8b%d0%b9-155555555555555555555555555.jpg?crc=4145385738" alt="" width="106" height="106"/>
+        </div>
+       </div>
        <img class="grpelem" id="u920-4" alt="ОСНОВы БЕЗОПАСНОСТИ ЖИЗНЕДЕЯТЕЛЬНОСТИ" width="865" height="60" src="images/u920-4.png?crc=4063612003"/><!-- rasterized frame -->
       </div>
      </div>
@@ -210,11 +215,11 @@ Muse.Utils.initWidget('#slideshowu5198', ['#bp_infinity'], function(elem) { var 
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u5062-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,213]},{"speed":[null,0],"in":[213,Infinity]}]);/* scroll effect */
-$('#u5062').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,213],"fade":50},{"in":[213,213],"opacity":100},{"opacity":100,"in":[213,Infinity],"fade":50}]);/* scroll effect */
+$('#u5062').registerOpacityScrollEffect([{"in":[-Infinity,213],"fade":50,"opacity":0},{"in":[213,213],"opacity":100},{"in":[213,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
 $('#u1006-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,217.75]},{"speed":[null,0],"in":[217.75,Infinity]}]);/* scroll effect */
-$('#u1006').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,217.75],"fade":50},{"in":[217.75,217.75],"opacity":100},{"opacity":100,"in":[217.75,Infinity],"fade":50}]);/* scroll effect */
+$('#u1006').registerOpacityScrollEffect([{"in":[-Infinity,217.75],"fade":50,"opacity":0},{"in":[217.75,217.75],"opacity":100},{"in":[217.75,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
 $('#menuu4042').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,216.55]},{"speed":[0,0],"in":[216.55,Infinity]}]);/* scroll effect */
-$('#menuu4042').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,216.55],"fade":50},{"in":[216.55,216.55],"opacity":100},{"opacity":100,"in":[216.55,Infinity],"fade":50}]);/* scroll effect */
+$('#menuu4042').registerOpacityScrollEffect([{"in":[-Infinity,216.55],"fade":50,"opacity":0},{"in":[216.55,216.55],"opacity":100},{"in":[216.55,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
 $('#u4170').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1798.26]},{"speed":[0,0],"in":[1798.26,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
