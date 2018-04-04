@@ -1,33 +1,36 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yaya-yay2014@mail.ru" resolutions="1x" timestamp="1515939223031">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yaya-yay2014@mail.ru" resolutions="1x" timestamp="1522840093345">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="obzlit-_____.css" crc="4178299414" ref="obzlit-копия"/>
-    <file name="11class.css" crc="4076034398" ref="11class"/>
-    <file name="books.css" crc="3786839524" ref="books"/>
-    <file name="6class.css" crc="272482627" ref="6class"/>
-    <file name="10class.css" crc="4239145152" ref="10class"/>
-    <file name="8class.css" crc="4265412911" ref="8class"/>
-    <file name="video.css" crc="4081130512" ref="video"/>
-    <file name="7class.css" crc="3863242626" ref="7class"/>
-    <file name="index.css" crc="4003506070" ref="index"/>
-    <file name="9class.css" crc="262255589" ref="9class"/>
-    <file name="pres.css" crc="444155117" ref="pres"/>
-    <file name="9.css" crc="25396756" ref="9"/>
+    <file name="9.css" crc="4262626895" ref="9"/>
+    <file name="7class.css" crc="4140923976" ref="7class"/>
+    <file name="video3.css" crc="4243306633" ref="video3"/>
+    <file name="pres.css" crc="3831225283" ref="pres"/>
+    <file name="11class.css" crc="288359175" ref="11class"/>
+    <file name="video2.css" crc="507867011" ref="video2"/>
+    <file name="video.css" crc="3908175490" ref="video"/>
+    <file name="10class.css" crc="3817996341" ref="10class"/>
+    <file name="road-r.css" crc="91805360" ref="road-r"/>
+    <file name="books.css" crc="377719776" ref="books"/>
+    <file name="plos1.css" crc="4259226118" ref="plos1"/>
+    <file name="9class.css" crc="3913586594" ref="9class"/>
+    <file name="6class.css" crc="83895529" ref="6class"/>
+    <file name="8class.css" crc="3814686108" ref="8class"/>
+    <file name="index.css" crc="158850641" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="museutils.js" crc="3803043152" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="whatinput.js" crc="86476730" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="museconfig.js" crc="380897831" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="museutils.js" crc="3803043152" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="museconfig.js" crc="380897831" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
     <file name="webpro.js" crc="242022427" ref="index:9"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
-    <file name="require.js" crc="4157109226" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
+    <file name="require.js" crc="4157109226" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
     <file name="form_check.php" crc="147359589" ref="9"/>
     <file name="form_throttle.php" crc="93986428" ref="9"/>
     <file name="form_process.php" crc="3851993751" ref="9"/>
@@ -35,24 +38,35 @@
   </folder>
   <folder name="images">
     <file name="obzlit-favicon.ico" crc="31782159" ref="index"/>
-    <file name="безымянный-155555555555555555555555555.jpg" crc="4145385738" seo="true" ref="index:obzlit-копия">
+    <file name="безымянный-155555555555555555555555555.jpg" crc="4145385738" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
+      <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="books" alt=""/>
+      <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="8class" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
     <file name="u920-4.png" crc="4063612003" ref="index"/>
     <file name="u7884-4.png" crc="4197838633" ref="index"/>
     <file name="u8308-4.png" crc="3894928706" ref="index"/>
-    <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия">
+    <file name="004-play-button.png" crc="4037656149" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="11class" alt=""/>
-      <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
@@ -62,18 +76,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия"/>
+    <file name="blank.gif" crc="4208392903" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1"/>
     <file name="u5212-4.png" crc="4017328071" ref="index"/>
     <file name="u5346-4.png" crc="94462042" ref="index"/>
     <file name="u5374-13.png" crc="329589543" ref="index"/>
@@ -94,121 +116,145 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5192-4.png" crc="278841497" ref="index"/>
-    <file name="001-home.png" crc="3920041696" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия">
+    <file name="001-home.png" crc="3920041696" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="11class" alt=""/>
-      <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
     <file name="u3982-4-a.png" crc="464650634" ref="index"/>
-    <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия">
+    <file name="005-open-book.png" crc="3818926562" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="11class" alt=""/>
-      <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
     <file name="u3622.png" crc="51926602" ref="index"/>
     <file name="u3622-a.png" crc="51926602" ref="index"/>
     <file name="u3644.png" crc="3931636458" ref="index"/>
     <file name="u3644-a.png" crc="3931636458" ref="index"/>
-    <file name="002-picture.png" crc="423889212" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия">
+    <file name="002-picture.png" crc="423889212" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="11class" alt=""/>
-      <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
     <file name="u3667.png" crc="128033098" ref="index"/>
     <file name="u3667-a.png" crc="128033098" ref="index"/>
-    <file name="003-apps.png" crc="3931548600" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия">
+    <file name="003-apps.png" crc="3931548600" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
       <caption webpage="9" alt=""/>
       <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
+      <caption webpage="10class" alt=""/>
       <caption webpage="books" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="11class" alt=""/>
-      <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
-      <caption webpage="9class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
+      <caption webpage="6class" alt=""/>
       <caption webpage="8class" alt=""/>
       <caption webpage="8class" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
     <file name="u3688.png" crc="513275520" ref="index"/>
     <file name="u3688-a.png" crc="513275520" ref="index"/>
-    <file name="u8305.png" crc="280848017" ref="index"/>
-    <file name="u8305-r.png" crc="146013170" ref="index"/>
+    <file name="u8305_states.png" crc="280848017" ref="index"/>
+    <file name="u8305_states-r.png" crc="146013170" ref="index"/>
     <file name="u4049-4-a.png" crc="464650634" ref="index"/>
     <file name="u4082.png" crc="51926602" ref="index"/>
     <file name="u4082-a.png" crc="51926602" ref="index"/>
@@ -218,19 +264,22 @@
     <file name="u4066-a.png" crc="128033098" ref="index"/>
     <file name="u4071.png" crc="513275520" ref="index"/>
     <file name="u4071-a.png" crc="513275520" ref="index"/>
-    <file name="001-tool.png" crc="443126559" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:obzlit-копия">
+    <file name="001-tool.png" crc="443126559" seo="true" ref="index:books:video:pres:9:8class:9class:10class:11class:7class:6class:road-r:video2:video3:plos1">
       <caption webpage="9" alt=""/>
+      <caption webpage="road-r" alt=""/>
+      <caption webpage="10class" alt=""/>
       <caption webpage="books" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="6class" alt=""/>
-      <caption webpage="11class" alt=""/>
       <caption webpage="7class" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pres" alt=""/>
-      <caption webpage="10class" alt=""/>
-      <caption webpage="9class" alt=""/>
+      <caption webpage="11class" alt=""/>
+      <caption webpage="6class" alt=""/>
       <caption webpage="8class" alt=""/>
-      <caption webpage="obzlit-копия" alt=""/>
+      <caption webpage="video2" alt=""/>
+      <caption webpage="plos1" alt=""/>
+      <caption webpage="video3" alt=""/>
+      <caption webpage="9class" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="pres" alt=""/>
     </file>
     <file name="u4400-4.png" crc="89963286" ref="books"/>
     <file name="вставленное изображение 680x915163x219.jpg" crc="4159907771" seo="true" ref="books">
@@ -314,7 +363,7 @@
     <file name="u4599.png" crc="513275520" ref="video"/>
     <file name="u4599-a.png" crc="513275520" ref="video"/>
     <file name="u4634-4.png" crc="89963286" ref="pres"/>
-    <file name="без имени.jpg" crc="3758637777" seo="true" ref="pres">
+    <file name="без имени.jpg" crc="341378293" seo="true" ref="pres">
       <caption webpage="pres" alt=""/>
       <caption webpage="pres" alt=""/>
       <caption webpage="pres" alt=""/>
@@ -539,39 +588,117 @@
     <file name="u7789-a.png" crc="128033098" ref="6class"/>
     <file name="u7792.png" crc="513275520" ref="6class"/>
     <file name="u7792-a.png" crc="513275520" ref="6class"/>
-    <file name="obzlit-копия-favicon.ico" crc="31782159" ref="obzlit-копия"/>
-    <file name="u8473-4.png" crc="4063612003" ref="obzlit-копия"/>
-    <file name="u8709.png" crc="464650634" ref="obzlit-копия"/>
-    <file name="u8709-a.png" crc="464650634" ref="obzlit-копия"/>
-    <file name="u8718.png" crc="51926602" ref="obzlit-копия"/>
-    <file name="u8718-a.png" crc="51926602" ref="obzlit-копия"/>
-    <file name="u8701.png" crc="3931636458" ref="obzlit-копия"/>
-    <file name="u8701-a.png" crc="3931636458" ref="obzlit-копия"/>
-    <file name="u8731.png" crc="128033098" ref="obzlit-копия"/>
-    <file name="u8731-a.png" crc="128033098" ref="obzlit-копия"/>
-    <file name="u8728.png" crc="513275520" ref="obzlit-копия"/>
-    <file name="u8728-a.png" crc="513275520" ref="obzlit-копия"/>
-    <file name="u8674.png" crc="464650634" ref="obzlit-копия"/>
-    <file name="u8674-a.png" crc="464650634" ref="obzlit-копия"/>
-    <file name="u8689.png" crc="51926602" ref="obzlit-копия"/>
-    <file name="u8689-a.png" crc="51926602" ref="obzlit-копия"/>
-    <file name="u8680.png" crc="3931636458" ref="obzlit-копия"/>
-    <file name="u8680-a.png" crc="3931636458" ref="obzlit-копия"/>
-    <file name="u8660.png" crc="128033098" ref="obzlit-копия"/>
-    <file name="u8660-a.png" crc="128033098" ref="obzlit-копия"/>
-    <file name="u8667.png" crc="513275520" ref="obzlit-копия"/>
-    <file name="u8667-a.png" crc="513275520" ref="obzlit-копия"/>
+    <file name="road-r-favicon.ico" crc="31782159" ref="road-r"/>
+    <file name="u9264-4.png" crc="4063612003" ref="road-r"/>
+    <file name="u11617-4.png" crc="3935794463" ref="road-r"/>
+    <file name="u11620-4.png" crc="323647420" ref="road-r"/>
+    <file name="u9289.png" crc="464650634" ref="road-r"/>
+    <file name="u9289-a.png" crc="464650634" ref="road-r"/>
+    <file name="u9295.png" crc="51926602" ref="road-r"/>
+    <file name="u9295-a.png" crc="51926602" ref="road-r"/>
+    <file name="u9308.png" crc="3931636458" ref="road-r"/>
+    <file name="u9308-a.png" crc="3931636458" ref="road-r"/>
+    <file name="u9313.png" crc="128033098" ref="road-r"/>
+    <file name="u9313-a.png" crc="128033098" ref="road-r"/>
+    <file name="u9281.png" crc="513275520" ref="road-r"/>
+    <file name="u9281-a.png" crc="513275520" ref="road-r"/>
+    <file name="u9350.png" crc="464650634" ref="road-r"/>
+    <file name="u9350-a.png" crc="464650634" ref="road-r"/>
+    <file name="u9325.png" crc="51926602" ref="road-r"/>
+    <file name="u9325-a.png" crc="51926602" ref="road-r"/>
+    <file name="u9339.png" crc="3931636458" ref="road-r"/>
+    <file name="u9339-a.png" crc="3931636458" ref="road-r"/>
+    <file name="u9331.png" crc="128033098" ref="road-r"/>
+    <file name="u9331-a.png" crc="128033098" ref="road-r"/>
+    <file name="u9356.png" crc="513275520" ref="road-r"/>
+    <file name="u9356-a.png" crc="513275520" ref="road-r"/>
+    <file name="u10111-4.png" crc="89963286" ref="video2"/>
+    <file name="u9929-9.png" crc="96876814" ref="video2"/>
+    <file name="u11575-9.png" crc="3870218624" ref="video2"/>
+    <file name="u9926-10.png" crc="3830324484" ref="video2"/>
+    <file name="u9921-9.png" crc="3890612547" ref="video2"/>
+    <file name="u9938.png" crc="464650634" ref="video2"/>
+    <file name="u9938-a.png" crc="464650634" ref="video2"/>
+    <file name="u9968.png" crc="51926602" ref="video2"/>
+    <file name="u9968-a.png" crc="51926602" ref="video2"/>
+    <file name="u9950.png" crc="3931636458" ref="video2"/>
+    <file name="u9950-a.png" crc="3931636458" ref="video2"/>
+    <file name="u9942.png" crc="128033098" ref="video2"/>
+    <file name="u9942-a.png" crc="128033098" ref="video2"/>
+    <file name="u9962.png" crc="513275520" ref="video2"/>
+    <file name="u9962-a.png" crc="513275520" ref="video2"/>
+    <file name="u9907.png" crc="464650634" ref="video2"/>
+    <file name="u9907-a.png" crc="464650634" ref="video2"/>
+    <file name="u9902.png" crc="51926602" ref="video2"/>
+    <file name="u9902-a.png" crc="51926602" ref="video2"/>
+    <file name="u9915.png" crc="3931636458" ref="video2"/>
+    <file name="u9915-a.png" crc="3931636458" ref="video2"/>
+    <file name="u9883.png" crc="128033098" ref="video2"/>
+    <file name="u9883-a.png" crc="128033098" ref="video2"/>
+    <file name="u9889.png" crc="513275520" ref="video2"/>
+    <file name="u9889-a.png" crc="513275520" ref="video2"/>
+    <file name="u10791-4.png" crc="89963286" ref="video3"/>
+    <file name="u10977-11.png" crc="3834848590" ref="video3"/>
+    <file name="u11587-7.png" crc="3856309140" ref="video3"/>
+    <file name="u10973-6.png" crc="17291963" ref="video3"/>
+    <file name="u10972-12.png" crc="118480941" ref="video3"/>
+    <file name="u10946.png" crc="464650634" ref="video3"/>
+    <file name="u10946-a.png" crc="464650634" ref="video3"/>
+    <file name="u10966.png" crc="51926602" ref="video3"/>
+    <file name="u10966-a.png" crc="51926602" ref="video3"/>
+    <file name="u10960.png" crc="3931636458" ref="video3"/>
+    <file name="u10960-a.png" crc="3931636458" ref="video3"/>
+    <file name="u10952.png" crc="128033098" ref="video3"/>
+    <file name="u10952-a.png" crc="128033098" ref="video3"/>
+    <file name="u10939.png" crc="513275520" ref="video3"/>
+    <file name="u10939-a.png" crc="513275520" ref="video3"/>
+    <file name="u11014.png" crc="464650634" ref="video3"/>
+    <file name="u11014-a.png" crc="464650634" ref="video3"/>
+    <file name="u10997.png" crc="51926602" ref="video3"/>
+    <file name="u10997-a.png" crc="51926602" ref="video3"/>
+    <file name="u11019.png" crc="3931636458" ref="video3"/>
+    <file name="u11019-a.png" crc="3931636458" ref="video3"/>
+    <file name="u11006.png" crc="128033098" ref="video3"/>
+    <file name="u11006-a.png" crc="128033098" ref="video3"/>
+    <file name="u10989.png" crc="513275520" ref="video3"/>
+    <file name="u10989-a.png" crc="513275520" ref="video3"/>
+    <file name="plos1-favicon.ico" crc="31782159" ref="plos1"/>
+    <file name="u11632-4.png" crc="4063612003" ref="plos1"/>
+    <file name="u11636-4.png" crc="323647420" ref="plos1"/>
+    <file name="u11824.png" crc="464650634" ref="plos1"/>
+    <file name="u11824-a.png" crc="464650634" ref="plos1"/>
+    <file name="u11839.png" crc="51926602" ref="plos1"/>
+    <file name="u11839-a.png" crc="51926602" ref="plos1"/>
+    <file name="u11832.png" crc="3931636458" ref="plos1"/>
+    <file name="u11832-a.png" crc="3931636458" ref="plos1"/>
+    <file name="u11808.png" crc="128033098" ref="plos1"/>
+    <file name="u11808-a.png" crc="128033098" ref="plos1"/>
+    <file name="u11818.png" crc="513275520" ref="plos1"/>
+    <file name="u11818-a.png" crc="513275520" ref="plos1"/>
+    <file name="u11790.png" crc="464650634" ref="plos1"/>
+    <file name="u11790-a.png" crc="464650634" ref="plos1"/>
+    <file name="u11780.png" crc="51926602" ref="plos1"/>
+    <file name="u11780-a.png" crc="51926602" ref="plos1"/>
+    <file name="u11774.png" crc="3931636458" ref="plos1"/>
+    <file name="u11774-a.png" crc="3931636458" ref="plos1"/>
+    <file name="u11768.png" crc="128033098" ref="plos1"/>
+    <file name="u11768-a.png" crc="128033098" ref="plos1"/>
+    <file name="u11800.png" crc="513275520" ref="plos1"/>
+    <file name="u11800-a.png" crc="513275520" ref="plos1"/>
   </folder>
-  <file name="index.html" crc="4277827305" seo="true" mt="1515938592256" redirect="true"/>
-  <file name="books.html" crc="4208633549" seo="true" mt="1513075798980" redirect="true"/>
-  <file name="video.html" crc="3805537106" seo="true" mt="1513085055942" redirect="true"/>
-  <file name="pres.html" crc="120258220" seo="true" mt="1515937650951" redirect="true"/>
-  <file name="9.html" crc="380475994" seo="true" mt="1513089857830" redirect="true"/>
-  <file name="8class.html" crc="4107736988" seo="true" mt="1513075798984" redirect="true"/>
-  <file name="9class.html" crc="459677664" seo="true" mt="1513075798985" redirect="true"/>
-  <file name="10class.html" crc="4036989922" seo="true" mt="1513075798986" redirect="true"/>
-  <file name="11class.html" crc="431118323" seo="true" mt="1513075798987" redirect="true"/>
-  <file name="7class.html" crc="315495990" seo="true" mt="1513075798987" redirect="true"/>
-  <file name="6class.html" crc="462035750" seo="true" mt="1513075798988" redirect="true"/>
-  <file name="obzlit-копия.html" crc="3819826937" seo="true" mt="1515939173713" redirect="true"/>
+  <file name="index.html" crc="174087418" seo="true" mt="1522839959978" redirect="true"/>
+  <file name="books.html" crc="309461664" seo="true" mt="1522838784612" redirect="true"/>
+  <file name="video.html" crc="437351521" seo="true" mt="1522839091263" redirect="true"/>
+  <file name="pres.html" crc="104571418" seo="true" mt="1522838784325" redirect="true"/>
+  <file name="9.html" crc="272165022" seo="true" mt="1522838784374" redirect="true"/>
+  <file name="8class.html" crc="154455146" seo="true" mt="1522838784698" redirect="true"/>
+  <file name="9class.html" crc="4024233250" seo="true" mt="1522838783553" redirect="true"/>
+  <file name="10class.html" crc="4236182573" seo="true" mt="1522838784569" redirect="true"/>
+  <file name="11class.html" crc="3932088547" seo="true" mt="1522838784594" redirect="true"/>
+  <file name="7class.html" crc="4143781616" seo="true" mt="1522838783805" redirect="true"/>
+  <file name="6class.html" crc="434121892" seo="true" mt="1522838784534" redirect="true"/>
+  <file name="road-r.html" crc="4133313692" seo="true" mt="1522839371783" redirect="true"/>
+  <file name="video2.html" crc="185713410" seo="true" mt="1522839023657" redirect="true"/>
+  <file name="video3.html" crc="4225095280" seo="true" mt="1522838885767" redirect="true"/>
+  <file name="plos1.html" crc="432657426" seo="true" mt="1522839907761" redirect="true"/>
 </manifest>

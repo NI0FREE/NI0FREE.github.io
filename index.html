@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>OBZLIT</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4003506070" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=158850641" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -149,7 +149,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem" id="u7887-3"><!-- content -->
      <p>&nbsp;</p>
     </div>
-    <img class="grpelem" id="u8305" alt="РАЗДЕЛ &quot;ПРАВИЛА ДОРОЖНОГО ДВИЖЕНИЯ&quot;" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
+    <a class="nonblock nontext grpelem" id="u8305" href="road-r.html"><!-- state-based BG images --><img id="u8305_states" alt="РАЗДЕЛ &quot;ПРАВИЛА ДОРОЖНОГО ДВИЖЕНИЯ&quot;" src="images/blank.gif?crc=4208392903"/></a>
    </div>
    <div class="clearfix grpelem" id="pu5062"><!-- group -->
     <div class="browser_width mse_pre_init" id="u5062-bw">
@@ -187,7 +187,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <img class="preload" src="images/u3644-a.png?crc=3931636458" alt=""/>
    <img class="preload" src="images/u3667-a.png?crc=128033098" alt=""/>
    <img class="preload" src="images/u3688-a.png?crc=513275520" alt=""/>
-   <img class="preload" src="images/u8305-r.png?crc=146013170" alt=""/>
+   <img class="preload" src="images/u8305_states-r.png?crc=146013170" alt=""/>
    <img class="preload" src="images/u4082-a.png?crc=51926602" alt=""/>
    <img class="preload" src="images/u4057-a.png?crc=3931636458" alt=""/>
    <img class="preload" src="images/u4066-a.png?crc=128033098" alt=""/>
@@ -215,11 +215,11 @@ Muse.Utils.initWidget('#slideshowu5198', ['#bp_infinity'], function(elem) { var 
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#u5062-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,213]},{"speed":[null,0],"in":[213,Infinity]}]);/* scroll effect */
-$('#u5062').registerOpacityScrollEffect([{"in":[-Infinity,213],"fade":50,"opacity":0},{"in":[213,213],"opacity":100},{"in":[213,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
+$('#u5062').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,213],"fade":50},{"in":[213,213],"opacity":100},{"opacity":100,"in":[213,Infinity],"fade":50}]);/* scroll effect */
 $('#u1006-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,217.75]},{"speed":[null,0],"in":[217.75,Infinity]}]);/* scroll effect */
-$('#u1006').registerOpacityScrollEffect([{"in":[-Infinity,217.75],"fade":50,"opacity":0},{"in":[217.75,217.75],"opacity":100},{"in":[217.75,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
+$('#u1006').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,217.75],"fade":50},{"in":[217.75,217.75],"opacity":100},{"opacity":100,"in":[217.75,Infinity],"fade":50}]);/* scroll effect */
 $('#menuu4042').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,216.55]},{"speed":[0,0],"in":[216.55,Infinity]}]);/* scroll effect */
-$('#menuu4042').registerOpacityScrollEffect([{"in":[-Infinity,216.55],"fade":50,"opacity":0},{"in":[216.55,216.55],"opacity":100},{"in":[216.55,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
+$('#menuu4042').registerOpacityScrollEffect([{"opacity":0,"in":[-Infinity,216.55],"fade":50},{"in":[216.55,216.55],"opacity":100},{"opacity":100,"in":[216.55,Infinity],"fade":50}]);/* scroll effect */
 $('#u4170').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1798.26]},{"speed":[0,0],"in":[1798.26,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

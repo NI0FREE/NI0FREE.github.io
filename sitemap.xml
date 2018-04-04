@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yaya-yay2014@mail.ru/index.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,9 +41,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/books.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -83,9 +86,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/video.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -107,9 +113,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/pres.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -140,9 +149,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/9.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -167,9 +179,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/8class.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -194,9 +209,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/9class.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -221,9 +239,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/10class.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -248,9 +269,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/11class.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -275,9 +299,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/7class.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -302,9 +329,12 @@
   </url>
   <url>
     <loc>http://yaya-yay2014@mail.ru/6class.html</loc>
-    <lastmod>2017-12-12</lastmod>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
     </image:image>
@@ -328,8 +358,89 @@
     </image:image>
   </url>
   <url>
-    <loc>http://yaya-yay2014@mail.ru/obzlit-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <loc>http://yaya-yay2014@mail.ru/road-r.html</loc>
+    <lastmod>2018-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/001-tool.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yaya-yay2014@mail.ru/video2.html</loc>
+    <lastmod>2018-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/001-tool.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yaya-yay2014@mail.ru/video3.html</loc>
+    <lastmod>2018-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/%D0%B1%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9-155555555555555555555555555.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/004-play-button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/001-home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/005-open-book.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/002-picture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/003-apps.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yaya-yay2014@mail.ru/images/001-tool.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yaya-yay2014@mail.ru/plos1.html</loc>
+    <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
